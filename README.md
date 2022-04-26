@@ -9,7 +9,8 @@ Developer
 <a href="https://www.twitter.com/hackmajoris" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/hackmajoris?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
   
-  <a href="https://app.daily.dev/hackmajoris"><img src="https://api.daily.dev/devcards/f1a8276b9f0e458b9db7c0f8dab3be04.png?r=50g" width="400" alt="Alex Ilies's Dev Card"/></a>
+<p align="right" <a href="https://app.daily.dev/hackmajoris"><img src="https://api.daily.dev/devcards/f1a8276b9f0e458b9db7c0f8dab3be04.png?r=50g" width="400" alt="Alex Ilies's Dev Card"/></a>
+</p>
   
  ### Skills
  
