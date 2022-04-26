@@ -10,7 +10,7 @@ Developer
   <img src="https://img.shields.io/twitter/follow/hackmajoris?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a>
   
   
- ### Skills
+### Skills
 
 <div>
 <p align="left">
@@ -45,14 +45,11 @@ Developer
                                 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
                                 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-  
-  <p align="right" <a href="https://app.daily.dev/hackmajoris"><img src="https://api.daily.dev/devcards/f1a8276b9f0e458b9db7c0f8dab3be04.png?r=50g" width="400" alt="Alex Ilies's Dev Card"/></a>
+    <p align="right" <a href="https://app.daily.dev/hackmajoris"><img src="https://api.daily.dev/devcards/f1a8276b9f0e458b9db7c0f8dab3be04.png?r=50g" width="400" alt="Alex Ilies's Dev Card"/></a>
 </p>
-
-</div>
+</p>
                 
-  
-  ### Socials  <p align="left"> <a href="https://www.github.com/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Socials  <p align="left"> <a href="https://www.github.com/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hackmajoris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
  </p>
                     
 
