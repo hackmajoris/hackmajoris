@@ -45,11 +45,8 @@ Developer
                                 <a href="https://solana.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solana-colored.svg" width="36" height="36" alt="Solana" /></a>
                                 <a href="https://www.avax.network/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/avalanche-colored.svg" width="36" height="36" alt="Avalanche" /></a>
                                 <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+  <a href="https://app.daily.dev/hackmajoris"><img src="https://api.daily.dev/devcards/f1a8276b9f0e458b9db7c0f8dab3be04.png?r=50g" width="400" alt="Alex Ilies's Dev Card"/></a>
 </p>
-  
-   <p align="right" <a href="https://app.daily.dev/hackmajoris"><img src="https://api.daily.dev/devcards/f1a8276b9f0e458b9db7c0f8dab3be04.png?r=50g" width="400" alt="Alex Ilies's Dev Card"/></a>
-</p>
-
 </div>
                 
 ### Socials  
