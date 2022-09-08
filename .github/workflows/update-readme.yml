@@ -1,4 +1,4 @@
-name: Chess Stats Action
+name: Update automated data on README.md
 
 on:
   schedule:
@@ -6,11 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme:
-    name: Update readme with your chess stats and games
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@main
-        with:
-          CHESS_USERNAME: 'VipLord'
+  activity:
+      runs-on: ubuntu-latest
+      name: Update recent activity
+      
+  chess:
+      needs: activity
+      name: Update chess.com stats and games
+      runs-on: ubuntu-latest
+      steps:
+        - uses: actions/checkout@v3
+        - uses: Balastrong/chess-stats-action@main
+          with:
+            CHESS_USERNAME: 'VipLord'
