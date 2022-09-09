@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: hackmajoris/chess-stats-action@main
+      - uses: Balastrong/chess-stats-action@main
         with:
           CHESS_USERNAME: 'VipLord'
 
