@@ -1,4 +1,4 @@
-Hi 👋 My name is Alexandru Ilies
+Hi 👋 My name is Alex
 ================================
 
 Developer
