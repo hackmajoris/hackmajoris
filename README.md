@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1116 | 1160 | 1410 |
+| Current | 1075 | 1160 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | marcobispo | resigned ❌ | 20/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1B3k2/ppp1p3/1b2PpP1/3K1P2/P7/1r6/8 w - -">Link</a> | Rapid |
 | Lune_fc09 | **VipLord** | checkmated ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1pq3k/2p1NR2/1p6/6Q1/2PP4/PPK3P1/7R b - -">Link</a> | Rapid |
 | AdamKorte | **VipLord** | checkmated ❌ | 3/4/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/7Q/5p2/p4B2/4b3/3q3P/P5P1/7K b - -">Link</a> | Rapid |
 | **VipLord** | Sn1perXog23 | resigned ❌ | 19/3/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp1b3/8/3pn2p/1q6/8/P1P1NP2/3R1K2 w - -">Link</a> | Rapid |
@@ -85,6 +86,5 @@ Developer
 | **VipLord** | Cacass1973 | resigned ❌ | 13/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k2ppp/p2Rp2n/r1p5/3p4/3P2PP/5P2/6K1 w - -">Link</a> | Rapid |
 | mono-vs | **VipLord** | stalemate ⏸️ | 9/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p4/3Pp3/P3Pk2/3B1pR1/1PP2P2/6K1 b - -">Link</a> | Rapid |
 | danmen9 | **VipLord** | win 🥇 | 9/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/ppp1nR2/3pb1Q1/8/8/2N5/PPP3PP/R1B1q2K w q -">Link</a> | Rapid |
-| **VipLord** | mzs_22 | win 🥇 | 23/1/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k2q4/pp3Qp1/2p2b2/2Np4/1P5p/P7/2P2P2/4R1K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
