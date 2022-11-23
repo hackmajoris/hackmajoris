@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1075 | 1160 | 1410 |
+| Current | 1034 | 1160 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | SnowForgwPog | checkmated ❌ | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/ppp3p1/5n1p/8/P2rpQ2/7N/2R2PPP/3qK2R w - -">Link</a> | Rapid |
 | **VipLord** | marcobispo | resigned ❌ | 20/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1B3k2/ppp1p3/1b2PpP1/3K1P2/P7/1r6/8 w - -">Link</a> | Rapid |
 | Lune_fc09 | **VipLord** | checkmated ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1pq3k/2p1NR2/1p6/6Q1/2PP4/PPK3P1/7R b - -">Link</a> | Rapid |
 | AdamKorte | **VipLord** | checkmated ❌ | 3/4/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/7Q/5p2/p4B2/4b3/3q3P/P5P1/7K b - -">Link</a> | Rapid |
