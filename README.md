@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1034 | 1160 | 1410 |
+| Current | 1065 | 1160 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| MangleshVyas2 | **VipLord** | win 🥇 | 23/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p2Q2/7p/8/Pq6/KP1n1P2/4r2P/8 w - -">Link</a> | Rapid |
 | **VipLord** | SnowForgwPog | checkmated ❌ | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/ppp3p1/5n1p/8/P2rpQ2/7N/2R2PPP/3qK2R w - -">Link</a> | Rapid |
 | **VipLord** | marcobispo | resigned ❌ | 20/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1B3k2/ppp1p3/1b2PpP1/3K1P2/P7/1r6/8 w - -">Link</a> | Rapid |
 | Lune_fc09 | **VipLord** | checkmated ❌ | 30/7/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/p1pq3k/2p1NR2/1p6/6Q1/2PP4/PPK3P1/7R b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | grsroman0 | **VipLord** | win 🥇 | 5/3/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/2p2ppp/3b4/Q3p3/8/5bPN/PPPP1PnP/RNBK3R w - -">Link</a> | Rapid |
 | **VipLord** | Cacass1973 | resigned ❌ | 13/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k2ppp/p2Rp2n/r1p5/3p4/3P2PP/5P2/6K1 w - -">Link</a> | Rapid |
 | mono-vs | **VipLord** | stalemate ⏸️ | 9/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p4/3Pp3/P3Pk2/3B1pR1/1PP2P2/6K1 b - -">Link</a> | Rapid |
-| danmen9 | **VipLord** | win 🥇 | 9/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k3/ppp1nR2/3pb1Q1/8/8/2N5/PPP3PP/R1B1q2K w q -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
