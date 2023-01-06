@@ -72,11 +72,14 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1065 | 1160 | 1410 |
+| Current | 1097 | 1160 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | MatteoCavina | win 🥇 | 5/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/rbpq1p2/p2p1k2/1p1PpPQ1/3n3P/P2P2N1/1RP3P1/5RK1 b - -">Link</a> | Rapid |
+| raviravinderthakur | **VipLord** | checkmated ❌ | 5/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/1pp1R2p/p4Rk1/3N2p1/1P4P1/P7/2P3K1/8 b - -">Link</a> | Rapid |
+| **VipLord** | MRInasanking | win 🥇 | 5/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp1Npp1/3p2qp/2b1p3/3nP3/3P1N1P/PPP1BPP1/R2Q1RK1 b - -">Link</a> | Rapid |
 | MangleshVyas2 | **VipLord** | win 🥇 | 23/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p2Q2/7p/8/Pq6/KP1n1P2/4r2P/8 w - -">Link</a> | Rapid |
 | **VipLord** | SnowForgwPog | checkmated ❌ | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/ppp3p1/5n1p/8/P2rpQ2/7N/2R2PPP/3qK2R w - -">Link</a> | Rapid |
 | **VipLord** | marcobispo | resigned ❌ | 20/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1B3k2/ppp1p3/1b2PpP1/3K1P2/P7/1r6/8 w - -">Link</a> | Rapid |
@@ -84,8 +87,5 @@ Developer
 | AdamKorte | **VipLord** | checkmated ❌ | 3/4/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6rk/7Q/5p2/p4B2/4b3/3q3P/P5P1/7K b - -">Link</a> | Rapid |
 | **VipLord** | Sn1perXog23 | resigned ❌ | 19/3/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp1b3/8/3pn2p/1q6/8/P1P1NP2/3R1K2 w - -">Link</a> | Rapid |
 | **VipLord** | gcmac | abandoned  | 8/3/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1ppq1pp1/2n2n1p/1B1pp3/P2bP1bN/R1NP4/1BPQ1PP1/5RK1 w - -">Link</a> | Rapid |
-| grsroman0 | **VipLord** | win 🥇 | 5/3/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1q1rk1/2p2ppp/3b4/Q3p3/8/5bPN/PPPP1PnP/RNBK3R w - -">Link</a> | Rapid |
-| **VipLord** | Cacass1973 | resigned ❌ | 13/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2k2ppp/p2Rp2n/r1p5/3p4/3P2PP/5P2/6K1 w - -">Link</a> | Rapid |
-| mono-vs | **VipLord** | stalemate ⏸️ | 9/2/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p4/3Pp3/P3Pk2/3B1pR1/1PP2P2/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
