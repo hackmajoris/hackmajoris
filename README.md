@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1139 | 1160 | 1410 |
+| Current | 1162 | 1160 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Ordeper | **VipLord** | win 🥇 | 9/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1pp2pp1/p2p3p/3P4/2b2QP1/2P2P2/P3r1qP/5RK1 w - -">Link</a> | Rapid |
 | **VipLord** | Sha197 | resigned ❌ | 8/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1q2k/p1pp2bp/4p3/1P2P3/P1NP4/2Pr4/6RK w - -">Link</a> | Rapid |
 | **VipLord** | turiboy | win 🥇 | 8/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/p4r2/PpPp4/1P4R1/4k1P1/7K b - -">Link</a> | Rapid |
 | damengammm | **VipLord** | win 🥇 | 8/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/1pN2ppp/3pbq2/2b1p3/1p2P3/3P1N2/rR1KBPPP/3n1R2 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | MRInasanking | win 🥇 | 5/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/ppp1Npp1/3p2qp/2b1p3/3nP3/3P1N1P/PPP1BPP1/R2Q1RK1 b - -">Link</a> | Rapid |
 | MangleshVyas2 | **VipLord** | win 🥇 | 23/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p2Q2/7p/8/Pq6/KP1n1P2/4r2P/8 w - -">Link</a> | Rapid |
 | **VipLord** | SnowForgwPog | checkmated ❌ | 22/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k1r3/ppp3p1/5n1p/8/P2rpQ2/7N/2R2PPP/3qK2R w - -">Link</a> | Rapid |
-| **VipLord** | marcobispo | resigned ❌ | 20/11/2022 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1B3k2/ppp1p3/1b2PpP1/3K1P2/P7/1r6/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
