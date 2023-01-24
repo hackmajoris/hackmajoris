@@ -72,20 +72,20 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1217 | 862 | 1410 |
-| Best | 1436 | 1200 | No Rating |
+| Current | No Rating | No Rating | No Rating |
+| Best | No Rating | No Rating | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | peymankhezri | resigned ❌ | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1kp5/pn5p/2b1N1p1/5r2/3R4/P3K1PP/8 w - -">Link</a> | Rapid |
+| **VipLord** | Riojaja | resigned ❌ | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p2pp1/3p1q1p/p1b5/Pp1pP1bN/1B1P2P1/1PP2PK1/R6R w - -">Link</a> | Rapid |
+| enis14 | **VipLord** | win 🥇 | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pp4Q1/1bn4p/8/3P2n1/B1P1PrP1/P4q2/RN1R1K2 w - -">Link</a> | Rapid |
+| pratikbhat1702 | **VipLord** | resigned ❌ | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7R/5p2/2k5/8/N3Ppb1/P1P5/5BP1/2K5 b - -">Link</a> | Rapid |
+| **VipLord** | 74L4K | resigned ❌ | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5k2/2Kr2pp/5n2/p7/8/P4P1P/8 w - -">Link</a> | Rapid |
 | **VipLord** | mortiii10 | checkmated ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p3pp/1pp1N3/4Pp2/8/8/P1P2PPP/3r2K1 w - -">Link</a> | Blitz |
 | **VipLord** | XraySnoopy | resigned ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/pp3pp1/2p1p3/3p2p1/8/P1P5/3K4/7R w - -">Link</a> | Blitz |
 | **VipLord** | ovidiubacanu | checkmated ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/R7/7p/8/8/1P1P4/P1P2r2/q2K4 w - -">Link</a> | Blitz |
 | younicoin | **VipLord** | resigned ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1kp2/p2p4/1p2nP2/P3Q3/4P1Pr/1PP2KR1/R1B5 b - -">Link</a> | Blitz |
 | yllzeqiri | **VipLord** | checkmated ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1rk/pp1n1p1Q/2p5/4P3/3PB3/2P4P/PPK1P3/6R1 b - -">Link</a> | Rapid |
-| akshay1395 | **VipLord** | resigned ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p5/6K1/2k4N/8/8/Q7 b - -">Link</a> | Rapid |
-| **VipLord** | teodoraaalexandra | agreed ⏸️ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/1k6/8/6P1/1P3n2/4KP2/8 b - -">Link</a> | Rapid |
-| **VipLord** | micmac079 | win 🥇 | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k4r1r/1p2R3/pQp1R2p/3p4/3p2PP/1P1P4/P1P5/1K6 b - -">Link</a> | Rapid |
-| NDT1998 | **VipLord** | timeout ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4pkp/2p3p1/8/8/5P1Q/P2q2PP/5B1K b - -">Link</a> | Rapid |
-| alidarami | **VipLord** | resigned ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1p4p1/p6p/8/8/4P1PN/PPPK3P/5R2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
