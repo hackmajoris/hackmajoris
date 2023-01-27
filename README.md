@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1204 | 862 | 1410 |
+| Current | 1196 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| o2b27 | **VipLord** | resigned ❌ | 26/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/QR3pk1/3p2q1/4p3/P1P1P3/2KB4/2P4r/6R1 b - -">Link</a> | Rapid |
 | juicy_maffews | **VipLord** | win 🥇 | 24/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/1p3kpp/2p5/3P4/8/2qnP2P/N5P1/KQ6 w - -">Link</a> | Rapid |
 | **VipLord** | peymankhezri | resigned ❌ | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/1kp5/pn5p/2b1N1p1/5r2/3R4/P3K1PP/8 w - -">Link</a> | Rapid |
 | **VipLord** | Riojaja | resigned ❌ | 23/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/2p2pp1/3p1q1p/p1b5/Pp1pP1bN/1B1P2P1/1PP2PK1/R6R w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | mortiii10 | checkmated ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p3pp/1pp1N3/4Pp2/8/8/P1P2PPP/3r2K1 w - -">Link</a> | Blitz |
 | **VipLord** | XraySnoopy | resigned ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r1k1/pp3pp1/2p1p3/3p2p1/8/P1P5/3K4/7R w - -">Link</a> | Blitz |
 | **VipLord** | ovidiubacanu | checkmated ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/R7/7p/8/8/1P1P4/P1P2r2/q2K4 w - -">Link</a> | Blitz |
-| younicoin | **VipLord** | resigned ❌ | 22/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2p1kp2/p2p4/1p2nP2/P3Q3/4P1Pr/1PP2KR1/R1B5 b - -">Link</a> | Blitz |
 
 <!--END_SECTION:chessStats-->
