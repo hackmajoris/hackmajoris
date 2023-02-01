@@ -77,6 +77,9 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | JJ22JJ | win 🥇 | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r1k/1p5Q/1q2B3/2b2pN1/p3p3/P1NP3P/1PP2PP1/1R2R1K1 b - -">Link</a> | Rapid |
+| **VipLord** | xumandu | resigned ❌ | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1p2ppp/b2q4/8/5P2/1Pb1P3/P1PB3P/1R1K2R1 w - -">Link</a> | Rapid |
+| momokisaragi | **VipLord** | repetition ⏸️ | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5p2/p1b2npN/4p3/2P1P3/q2BP1QP/6P1/5RK1 b - -">Link</a> | Rapid |
 | prasannavyas | **VipLord** | resigned ❌ | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/8/8/8/1p6/7p/1K3Q2/6k1 b - -">Link</a> | Rapid |
 | LuisMey | **VipLord** | resigned ❌ | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/1k2N3/8/6p1/5p2/5K1P/6P1/8 b - -">Link</a> | Rapid |
 | **VipLord** | KnightAY | resigned ❌ | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5pk1/1p1R4/1Pq3KP/n4P2/8/8 w - -">Link</a> | Rapid |
@@ -84,8 +87,5 @@ Developer
 | p019j773 | **VipLord** | win 🥇 | 29/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p5B/1P4Pk/R4p2/3nr2P/3r4/5K2 w - -">Link</a> | Rapid |
 | 1998Kko | **VipLord** | resigned ❌ | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3N1k2/8/5PK1/8/7P/8/8 b - -">Link</a> | Rapid |
 | **VipLord** | BGSW42 | checkmated ❌ | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p3kpp1/2Bp3p/3Pp3/8/2q2bP1/P4P1P/K7 w - -">Link</a> | Rapid |
-| BGSW42 | **VipLord** | resigned ❌ | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b4k/5r1p/p1Bpp2B/1p2p3/4P3/3P1N1P/PP3KP1/R6R b - -">Link</a> | Rapid |
-| **VipLord** | Sina_Pirhadi | win 🥇 | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bQkr2/p2p1p1p/3b2p1/1p4B1/2BpP3/3P4/Pq3PPP/2R2K1R b q -">Link</a> | Rapid |
-| **VipLord** | Andthen | win 🥇 | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/1b1ppQpp/p7/1ppB4/3nP3/2NP4/PPP2PPP/R1B1K1NR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
