@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1189 | 862 | 1410 |
+| Current | 1181 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | GrigoriyGradil2023 | resigned ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/7p/1r5k/5K1P/8/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | JJ22JJ | win 🥇 | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r1k/1p5Q/1q2B3/2b2pN1/p3p3/P1NP3P/1PP2PP1/1R2R1K1 b - -">Link</a> | Rapid |
 | **VipLord** | xumandu | resigned ❌ | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1p2ppp/b2q4/8/5P2/1Pb1P3/P1PB3P/1R1K2R1 w - -">Link</a> | Rapid |
 | momokisaragi | **VipLord** | repetition ⏸️ | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5p2/p1b2npN/4p3/2P1P3/q2BP1QP/6P1/5RK1 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | stk2022 | win 🥇 | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pQp1qppp/3p1n2/4p3/3PP3/2N1BN2/PPP2PPP/R3K2R w KQkq -">Link</a> | Rapid |
 | p019j773 | **VipLord** | win 🥇 | 29/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p5B/1P4Pk/R4p2/3nr2P/3r4/5K2 w - -">Link</a> | Rapid |
 | 1998Kko | **VipLord** | resigned ❌ | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3N1k2/8/5PK1/8/7P/8/8 b - -">Link</a> | Rapid |
-| **VipLord** | BGSW42 | checkmated ❌ | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p3kpp1/2Bp3p/3Pp3/8/2q2bP1/P4P1P/K7 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
