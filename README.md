@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1181 | 862 | 1410 |
+| Current | 1180 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | men3mmo7amed | resigned ❌ | 2/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3r/1k1n1pp1/3R3p/p7/1pq1p1P1/7P/5BK1/8 w - -">Link</a> | Rapid |
+| vivek0088 | **VipLord** | win 🥇 | 2/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1b3rk1/pp4p1/2n3Qp/2PN4/P1P3P1/5r2/B4P1q/4RRK1 w - -">Link</a> | Rapid |
 | **VipLord** | GrigoriyGradil2023 | resigned ❌ | 1/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/7p/1r5k/5K1P/8/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | JJ22JJ | win 🥇 | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2r1k/1p5Q/1q2B3/2b2pN1/p3p3/P1NP3P/1PP2PP1/1R2R1K1 b - -">Link</a> | Rapid |
 | **VipLord** | xumandu | resigned ❌ | 31/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/p1p2ppp/b2q4/8/5P2/1Pb1P3/P1PB3P/1R1K2R1 w - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | LuisMey | **VipLord** | resigned ❌ | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/1k2N3/8/6p1/5p2/5K1P/6P1/8 b - -">Link</a> | Rapid |
 | **VipLord** | KnightAY | resigned ❌ | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5pk1/1p1R4/1Pq3KP/n4P2/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | stk2022 | win 🥇 | 30/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2kb1r/pQp1qppp/3p1n2/4p3/3PP3/2N1BN2/PPP2PPP/R3K2R w KQkq -">Link</a> | Rapid |
-| p019j773 | **VipLord** | win 🥇 | 29/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p5B/1P4Pk/R4p2/3nr2P/3r4/5K2 w - -">Link</a> | Rapid |
-| 1998Kko | **VipLord** | resigned ❌ | 28/1/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3N1k2/8/5PK1/8/7P/8/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
