@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1128 | 862 | 1410 |
+| Current | 1120 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | RiverGray8 | checkmated ❌ | 16/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k3/Ppp2p2/1P2p3/4P1b1/3PRPP1/5K1r/2R4r w - -">Link</a> | Rapid |
 | Gambit_Slava | **VipLord** | checkmated ❌ | 15/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2kQ/1pp1r3/p3bBP1/n7/P1Pp4/3B2N1/6PP/R4RK1 b - - 2 24">Link</a> | Daily |
 | InniLoyd | **VipLord** | resigned ❌ | 14/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2k5/8/8/6p1/2P5/6K1/8 b - -">Link</a> | Rapid |
 | Hja101 | **VipLord** | resigned ❌ | 13/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/p4p1p/1pp1kB1r/4Pb2/1P3P2/P5RP/5P1K/8 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | ssmoothb1 | resigned ❌ | 10/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/ppp2p1p/3p2p1/2b1p3/2B1P2Q/2N2n1b/PPP2PqP/R1B1KR2 w Qkq -">Link</a> | Rapid |
 | JPastorella | **VipLord** | win 🥇 | 10/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/2pk3r/pb2p1pN/1p1pPpB1/P4P2/1nP5/1P4K1/R4R2 b - -">Link</a> | Rapid |
 | **VipLord** | Whitewolf900 | checkmated ❌ | 10/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/2p2ppp/8/1p1Ppq2/Pp4b1/1B1P4/N1P1n1PP/R1B3KR w kq -">Link</a> | Rapid |
-| **VipLord** | hyogotti | win 🥇 | 8/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r1k4/2p5/p2pQ3/3P1PB1/1p4P1/1n1P1p2/2q5/3RK3 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
