@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1122 | 862 | 1410 |
+| Current | 1130 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Alan0186 | **VipLord** | win 🥇 | 28/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1p6/6qp/2P5/8/1rP2PK1/3n2PP/8 w - -">Link</a> | Rapid |
 | Rizwan345 | **VipLord** | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/7p/p2n4/Pk3P2/1Bq5/3r2P1/4Q1NK w - -">Link</a> | Rapid |
 | **VipLord** | andriikozakov | checkmated ❌ | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pb2bn1p/1p2p2B/1Bp2p2/3P4/P1N1Q2P/1PP3rq/R4R1K w - -">Link</a> | Rapid |
 | **VipLord** | RiverGray8 | checkmated ❌ | 16/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k3/Ppp2p2/1P2p3/4P1b1/3PRPP1/5K1r/2R4r w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | youloose1234 | **VipLord** | resigned ❌ | 12/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pk/4p1Q1/4P1K1/6P1/8/P7/8 b - -">Link</a> | Rapid |
 | **VipLord** | justforfun003 | checkmated ❌ | 11/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp4b1/4R1p1/3Q2Bp/3N2n1/2PP4/PP3rP1/R3K1q1 w - -">Link</a> | Rapid |
 | **VipLord** | favjo | resigned ❌ | 11/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/3Q2p1/5n1p/3K4/3P4/2q5/P4PPP/8 w - -">Link</a> | Rapid |
-| **VipLord** | ssmoothb1 | resigned ❌ | 10/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/ppp2p1p/3p2p1/2b1p3/2B1P2Q/2N2n1b/PPP2PqP/R1B1KR2 w Qkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
