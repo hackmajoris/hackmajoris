@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1130 | 862 | 1410 |
+| Current | 1120 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Yapm19 | **VipLord** | stalemate ⏸️ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p3p/8/3kq3/7K/8/6q1 w - -">Link</a> | Rapid |
+| **VipLord** | Krishna_Hari | resigned ❌ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1r/2p1k1pp/3p4/pP2pb2/P7/2P5/5R2/6K1 w - -">Link</a> | Rapid |
 | Alan0186 | **VipLord** | win 🥇 | 28/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1p6/6qp/2P5/8/1rP2PK1/3n2PP/8 w - -">Link</a> | Rapid |
 | Rizwan345 | **VipLord** | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/7p/p2n4/Pk3P2/1Bq5/3r2P1/4Q1NK w - -">Link</a> | Rapid |
 | **VipLord** | andriikozakov | checkmated ❌ | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pb2bn1p/1p2p2B/1Bp2p2/3P4/P1N1Q2P/1PP3rq/R4R1K w - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | InniLoyd | **VipLord** | resigned ❌ | 14/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2k5/8/8/6p1/2P5/6K1/8 b - -">Link</a> | Rapid |
 | Hja101 | **VipLord** | resigned ❌ | 13/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/p4p1p/1pp1kB1r/4Pb2/1P3P2/P5RP/5P1K/8 b - -">Link</a> | Rapid |
 | youloose1234 | **VipLord** | resigned ❌ | 12/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pk/4p1Q1/4P1K1/6P1/8/P7/8 b - -">Link</a> | Rapid |
-| **VipLord** | justforfun003 | checkmated ❌ | 11/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/pp4b1/4R1p1/3Q2Bp/3N2n1/2PP4/PP3rP1/R3K1q1 w - -">Link</a> | Rapid |
-| **VipLord** | favjo | resigned ❌ | 11/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/3Q2p1/5n1p/3K4/3P4/2q5/P4PPP/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
