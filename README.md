@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1120 | 862 | 1410 |
+| Current | 1132 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Yair202020 | win 🥇 | 30/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/2pq1pQ1/p1Np3p/1p1P4/1Pn5/P5R1/2P2PPP/5K1R b - -">Link</a> | Rapid |
 | Yapm19 | **VipLord** | stalemate ⏸️ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3p3p/8/3kq3/7K/8/6q1 w - -">Link</a> | Rapid |
 | **VipLord** | Krishna_Hari | resigned ❌ | 14/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1r/2p1k1pp/3p4/pP2pb2/P7/2P5/5R2/6K1 w - -">Link</a> | Rapid |
 | Alan0186 | **VipLord** | win 🥇 | 28/3/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1p6/6qp/2P5/8/1rP2PK1/3n2PP/8 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Gambit_Slava | **VipLord** | checkmated ❌ | 15/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2kQ/1pp1r3/p3bBP1/n7/P1Pp4/3B2N1/6PP/R4RK1 b - - 2 24">Link</a> | Daily |
 | InniLoyd | **VipLord** | resigned ❌ | 14/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/2k5/8/8/6p1/2P5/6K1/8 b - -">Link</a> | Rapid |
 | Hja101 | **VipLord** | resigned ❌ | 13/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R7/p4p1p/1pp1kB1r/4Pb2/1P3P2/P5RP/5P1K/8 b - -">Link</a> | Rapid |
-| youloose1234 | **VipLord** | resigned ❌ | 12/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5pk/4p1Q1/4P1K1/6P1/8/P7/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
