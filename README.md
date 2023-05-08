@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1156 | 862 | 1410 |
+| Current | 1163 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Sirius233 | **VipLord** | win 🥇 | 7/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppkr4/3p2R1/4p3/4Pp2/2P2P2/PPKB3r/5n2 w - -">Link</a> | Rapid |
 | **VipLord** | IINoobIIII | win 🥇 | 5/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/2q2ppQ/p2bp3/1ppp4/8/2NB1N2/PPP2PPP/4R1K1 b - -">Link</a> | Rapid |
 | **VipLord** | nagibatornosacha | win 🥇 | 5/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3qk2r/r2n1ppp/1pB5/p1b1p3/4P3/3Q2N1/PP1B1PPP/2R2RK1 b k -">Link</a> | Rapid |
 | **VipLord** | Yair202020 | win 🥇 | 30/4/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/2pq1pQ1/p1Np3p/1p1P4/1Pn5/P5R1/2P2PPP/5K1R b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Rizwan345 | **VipLord** | win 🥇 | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p6/7p/p2n4/Pk3P2/1Bq5/3r2P1/4Q1NK w - -">Link</a> | Rapid |
 | **VipLord** | andriikozakov | checkmated ❌ | 19/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr4/pb2bn1p/1p2p2B/1Bp2p2/3P4/P1N1Q2P/1PP3rq/R4R1K w - -">Link</a> | Rapid |
 | **VipLord** | RiverGray8 | checkmated ❌ | 16/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p3k3/Ppp2p2/1P2p3/4P1b1/3PRPP1/5K1r/2R4r w - -">Link</a> | Rapid |
-| Gambit_Slava | **VipLord** | checkmated ❌ | 15/2/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q2kQ/1pp1r3/p3bBP1/n7/P1Pp4/3B2N1/6PP/R4RK1 b - - 2 24">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
