@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1183 | 862 | 1410 |
+| Current | 1173 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | PERFsmh | checkmated ❌ | 21/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kr2pp/2p1Q3/1p1P4/2B5/2P2n2/PP1q3b/2RK4 w - -">Link</a> | Rapid |
 | Frankie2390 | **VipLord** | win 🥇 | 14/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/2p1r3/3pP3/p3p3/PpP1P2R/1P4P1/5PK1/8 w - -">Link</a> | Rapid |
 | **VipLord** | ctac4 | win 🥇 | 14/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp3pQp/4qBp1/3pp3/2B1P3/8/PPP2PPP/R3K2R b KQ -">Link</a> | Rapid |
 | benjbag | **VipLord** | win 🥇 | 14/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/pppbqpp1/2np3p/4P3/2B1Q3/5N2/PPP2PPP/RNB2RK1 w kq -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | lucpieterjos | resigned ❌ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/p5N1/6kp/1pppp3/P7/1P1PKP2/6P1/8 w - -">Link</a> | Rapid |
 | tobyminton | **VipLord** | win 🥇 | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/1q3n2/3Pp3/2P1P3/P2B1N2/RP2QPPP/2n1K2R w Kkq -">Link</a> | Rapid |
 | **VipLord** | Iamthatgood | repetition ⏸️ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/1PQ2pp1/7p/4p3/4n3/6P1/2P1q1KP/8 w - -">Link</a> | Rapid |
-| Sirius233 | **VipLord** | win 🥇 | 7/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppkr4/3p2R1/4p3/4Pp2/2P2P2/PPKB3r/5n2 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
