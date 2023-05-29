@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1173 | 862 | 1410 |
+| Current | 1171 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| DEOako2 | **VipLord** | win 🥇 | 28/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p2q1p2/8/1pbBp3/3n4/3P3P/PP3PP1/1R4K1 w - -">Link</a> | Rapid |
+| **VipLord** | Kebunmonopoli | timeout ❌ | 28/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/5KpP/6P1/6r1/8/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | PERFsmh | checkmated ❌ | 21/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kr2pp/2p1Q3/1p1P4/2B5/2P2n2/PP1q3b/2RK4 w - -">Link</a> | Rapid |
 | Frankie2390 | **VipLord** | win 🥇 | 14/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bk1/2p1r3/3pP3/p3p3/PpP1P2R/1P4P1/5PK1/8 w - -">Link</a> | Rapid |
 | **VipLord** | ctac4 | win 🥇 | 14/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp3pQp/4qBp1/3pp3/2B1P3/8/PPP2PPP/R3K2R b KQ -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | TomorrowNK | **VipLord** | win 🥇 | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p5/3k2BP/3P2K1/1r6/8/5q2 w - -">Link</a> | Rapid |
 | Gabeto06 | **VipLord** | checkmated ❌ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Bk3r2/pQ2p1pp/8/1p4p1/8/4P3/qP3PPP/3RK2R b K -">Link</a> | Rapid |
 | **VipLord** | lucpieterjos | resigned ❌ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/p5N1/6kp/1pppp3/P7/1P1PKP2/6P1/8 w - -">Link</a> | Rapid |
-| tobyminton | **VipLord** | win 🥇 | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1k2r/pppp1ppp/1q3n2/3Pp3/2P1P3/P2B1N2/RP2QPPP/2n1K2R w Kkq -">Link</a> | Rapid |
-| **VipLord** | Iamthatgood | repetition ⏸️ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/1PQ2pp1/7p/4p3/4n3/6P1/2P1q1KP/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
