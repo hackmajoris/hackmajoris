@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1171 | 862 | 1410 |
+| Current | 1161 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Surecool | **VipLord** | timeout ❌ | 3/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/3Q2k1/6p1/8/P1P4P/1P4P1/5RK1 b - -">Link</a> | Rapid |
 | DEOako2 | **VipLord** | win 🥇 | 28/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p2q1p2/8/1pbBp3/3n4/3P3P/PP3PP1/1R4K1 w - -">Link</a> | Rapid |
 | **VipLord** | Kebunmonopoli | timeout ❌ | 28/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/5KpP/6P1/6r1/8/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | PERFsmh | checkmated ❌ | 21/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2kr2pp/2p1Q3/1p1P4/2B5/2P2n2/PP1q3b/2RK4 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | DefenseCheetah | resigned ❌ | 14/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/ppp1nppp/3p2q1/4p3/2B1P3/3P2QP/PPP3P1/3K4 w - -">Link</a> | Rapid |
 | TomorrowNK | **VipLord** | win 🥇 | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2p5/3k2BP/3P2K1/1r6/8/5q2 w - -">Link</a> | Rapid |
 | Gabeto06 | **VipLord** | checkmated ❌ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Bk3r2/pQ2p1pp/8/1p4p1/8/4P3/qP3PPP/3RK2R b K -">Link</a> | Rapid |
-| **VipLord** | lucpieterjos | resigned ❌ | 13/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r2r3/p5N1/6kp/1pppp3/P7/1P1PKP2/6P1/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
