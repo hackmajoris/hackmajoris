@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1191 | 862 | 1410 |
+| Current | 1169 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | annamariazisi | checkmated ❌ | 21/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p4pp1/2pp4/2b1p3/2PnP1B1/2NPB3/P4PPq/R2Q1RK1 w kq -">Link</a> | Rapid |
+| **VipLord** | EmrushQenaj | resigned ❌ | 21/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/P7/1q6/2p4P/2R2PP1/6K1 w - -">Link</a> | Rapid |
 | Antibiot | **VipLord** | checkmated ❌ | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3rk1Q/p1pq1pp1/2np4/1p1N2N1/1P4b1/P1P3P1/3P1KBP/R1B5 b - -">Link</a> | Rapid |
 | Razrashad | **VipLord** | win 🥇 | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2K3p1/8/3k4/4n1P1/7P/4q3 w - -">Link</a> | Rapid |
 | Ilias7578 | **VipLord** | resigned ❌ | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3b1pp1/3Q3p/1p1B2r1/1P1pP3/3N1P1P/5KP1/1R3R2 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | SamiK95 | **VipLord** | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp1Bk2/5p1Q/3r1b2/3p2pR/PP6/2q5/2K1R3 w - -">Link</a> | Rapid |
 | **VipLord** | y-a-s-s-e-r7979 | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pp1b2qp/5p1b/3pQ3/3Ppn2/2N3R1/PPP2PPP/R5K1 b - -">Link</a> | Rapid |
 | **VipLord** | needlenardle | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pp2p1pp/2p2P2/3p4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -">Link</a> | Rapid |
-| Surecool | **VipLord** | timeout ❌ | 3/6/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/3Q2k1/6p1/8/P1P4P/1P4P1/5RK1 b - -">Link</a> | Rapid |
-| DEOako2 | **VipLord** | win 🥇 | 28/5/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/p2q1p2/8/1pbBp3/3n4/3P3P/PP3PP1/1R4K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
