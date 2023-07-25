@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1169 | 862 | 1410 |
+| Current | 1159 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| BotasDePiton | **VipLord** | resigned ❌ | 24/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/1p4pp/p1np4/2b1p3/6Q1/2PP2P1/PP3PKP/3R1R2 b - -">Link</a> | Rapid |
 | **VipLord** | annamariazisi | checkmated ❌ | 21/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/p4pp1/2pp4/2b1p3/2PnP1B1/2NPB3/P4PPq/R2Q1RK1 w kq -">Link</a> | Rapid |
 | **VipLord** | EmrushQenaj | resigned ❌ | 21/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/P7/1q6/2p4P/2R2PP1/6K1 w - -">Link</a> | Rapid |
 | Antibiot | **VipLord** | checkmated ❌ | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3rk1Q/p1pq1pp1/2np4/1p1N2N1/1P4b1/P1P3P1/3P1KBP/R1B5 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | samgate | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/pp3Qpp/2pp4/4p3/2B1P3/2N5/PPPP1PPP/R1B1K2R b KQkq -">Link</a> | Rapid |
 | SamiK95 | **VipLord** | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/ppp1Bk2/5p1Q/3r1b2/3p2pR/PP6/2q5/2K1R3 w - -">Link</a> | Rapid |
 | **VipLord** | y-a-s-s-e-r7979 | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pp1b2qp/5p1b/3pQ3/3Ppn2/2N3R1/PPP2PPP/R5K1 b - -">Link</a> | Rapid |
-| **VipLord** | needlenardle | win 🥇 | 15/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqkbnr/pp2p1pp/2p2P2/3p4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
