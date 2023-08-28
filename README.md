@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | viktor01thebest0 | stalemate ⏸️ | 27/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6k1/8/4q1pK/6P1/8/8/8 w - -">Link</a> | Rapid |
 | Deadshaut | **VipLord** | resigned ❌ | 20/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pp6/7p/8/8/6k1/PP3R2/6K1 b - -">Link</a> | Rapid |
 | **VipLord** | Ha_noi | resigned ❌ | 20/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/3r4/8/8/2K5/8/5k2 w - -">Link</a> | Rapid |
 | **VipLord** | StevenRaif211 | resigned ❌ | 13/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1k/5r1p/2pB4/5pK1/3P4/5r1P/8 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | EmrushQenaj | resigned ❌ | 21/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/7p/P7/1q6/2p4P/2R2PP1/6K1 w - -">Link</a> | Rapid |
 | Antibiot | **VipLord** | checkmated ❌ | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3rk1Q/p1pq1pp1/2np4/1p1N2N1/1P4b1/P1P3P1/3P1KBP/R1B5 b - -">Link</a> | Rapid |
 | Razrashad | **VipLord** | win 🥇 | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2K3p1/8/3k4/4n1P1/7P/4q3 w - -">Link</a> | Rapid |
-| Ilias7578 | **VipLord** | resigned ❌ | 16/7/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/3b1pp1/3Q3p/1p1B2r1/1P1pP3/3N1P1P/5KP1/1R3R2 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
