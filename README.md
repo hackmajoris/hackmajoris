@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1105 | 862 | 1410 |
+| Current | 1096 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | enzo502 | abandoned  | 30/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/p7/1p5p/4P1p1/3K4/8/b7/8 w - g6">Link</a> | Rapid |
 | **VipLord** | bokir994 | checkmated ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1R3pk1/3Q4/4p3/8/3P1b2/P6r/2K1q3 w - -">Link</a> | Rapid |
 | **VipLord** | viplord12 | win 🥇 | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2k/1p4p1/2qp3Q/p5n1/P1PB1r1N/1P1R3P/2P2PP1/5RK1 b - - 0 30">Link</a> | Daily |
 | Jaffar684 | **VipLord** | checkmated ❌ | 29/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1p3RQk/p6p/7q/4r3/PP3N1P/1P4P1/5R1K b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | NAchessers | **VipLord** | win 🥇 | 28/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/2p5/R7/2Pp2pq/3Pp2k/1p1nP3/3B4/1r3K2 w - -">Link</a> | Rapid |
 | **VipLord** | Manuel112233 | win 🥇 | 28/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1k/p3q2p/1p1p2p1/2p1p3/8/1P3Q2/P1P2PPP/4RRK1 b - -">Link</a> | Rapid |
 | moslemjavadi23 | **VipLord** | win 🥇 | 28/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N4rk1/5ppp/p2p4/1p2p3/PP2P3/3P2Pb/2P1QPqP/R3R1K1 w - -">Link</a> | Rapid |
-| **VipLord** | rajatind | win 🥇 | 28/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Rk2/p1pQ4/6r1/1p5p/8/3P1P1P/PPP2qPK/R7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
