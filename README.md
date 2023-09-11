@@ -72,20 +72,20 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1107 | 862 | 1410 |
+| Current | 1113 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| lucasLCK | **VipLord** | win 🥇 | 10/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp2pp1/3p3p/4n3/5R2/2P1P2P/PP2K1q1/R2Q4 w - -">Link</a> | Rapid |
+| sonnyyou | **VipLord** | win 🥇 | 10/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5p1Q/p7/1p1kp2b/1b3P2/8/PP3PPP/R3KB1R w KQ -">Link</a> | Rapid |
+| **VipLord** | elizeq | win 🥇 | 10/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/3R3Q/8/p7/8/1P6/6PK/8 b - -">Link</a> | Rapid |
+| **VipLord** | imlikeseesaw | resigned ❌ | 10/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=q3k2r/p1pr2pp/8/8/7b/2P1B3/PP3P2/4KR2 w k -">Link</a> | Rapid |
 | **VipLord** | trev01 | win 🥇 | 9/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/kp6/8/Q1K5/8 b - -">Link</a> | Rapid |
 | larryval83 | **VipLord** | resigned ❌ | 6/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4n1pp/p7/1p1pRR2/3P4/P1P4P/1P4P1/6K1 b - -">Link</a> | Rapid |
 | gregdel1710 | **VipLord** | resigned ❌ | 2/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/5k2/3R4/3pB3/4rPPP/3K4/8 b - -">Link</a> | Rapid |
 | D_eVi_l8294 | **VipLord** | win 🥇 | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r3k/pp1P1p1p/5p2/2p5/6q1/8/6K1/8 w - -">Link</a> | Rapid |
 | **VipLord** | D_eVi_l8294 | win 🥇 | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1B2/p7/b3Q3/k3P3/1P6/2N5/P4PPP/2R1K2R b K b3">Link</a> | Rapid |
 | D_eVi_l8294 | **VipLord** | resigned ❌ | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bN1b1r/ppp1k1p1/7p/3p4/2B1n3/8/PPP1QPPP/RNB1K2R b KQ -">Link</a> | Rapid |
-| **VipLord** | D_eVi_l8294 | win 🥇 | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2N2k/pp3pQp/8/2q2b2/8/5N1P/PP4PK/R6R b - -">Link</a> | Rapid |
-| aliqais000 | **VipLord** | win 🥇 | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/ppp3p1/3bb2p/3P4/4P3/5B2/PP3PPq/RN1Q1RK1 w kq -">Link</a> | Rapid |
-| **VipLord** | pkc456 | win 🥇 | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn6/p3nk2/b1pp3Q/2p1R2p/2Pp4/8/PP3P2/5K2 w - -">Link</a> | Rapid |
-| izs123 | **VipLord** | resigned ❌ | 31/8/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r3kr/ppNN1p1p/3Q2p1/8/6b1/8/PPP2PPP/R3K2R b KQ -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
