@@ -72,20 +72,20 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1099 | 862 | 1410 |
+| Current | 1107 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | d4rgombeS | checkmated ❌ | 14/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2p3p1/p2p3p/2pP4/4P1qr/8/PPP1N2K/8 w - -">Link</a> | Rapid |
+| **VipLord** | elizeq | win 🥇 | 14/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nk/pp2b1Q1/5p2/4pNp1/2p1q3/4B3/PP3PPP/R2R2K1 b - - 1 26">Link</a> | Daily |
+| **VipLord** | 124421lakhan | agreed ⏸️ | 14/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/pppp1ppp/2n5/3pP3/1b1P4/5N2/PPP2PPP/R1BQKB1R w KQkq - 3 7">Link</a> | Daily |
+| therandyrook | **VipLord** | win 🥇 | 14/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1pp3p1/p2p3p/P2Pp2q/1P6/2P3P1/3Qn1PN/R3Nr1K w - -">Link</a> | Rapid |
+| Darwinqwe | **VipLord** | win 🥇 | 14/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/2p2rpk/2p4p/8/P1P1pn2/1P3P1P/6q1/4QKN1 w - -">Link</a> | Rapid |
 | **VipLord** | elizeq | win 🥇 | 13/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rk3/p1R2r2/8/6Bp/1Pp4P/8/P4PP1/6K1 b - - 8 32">Link</a> | Daily |
 | juniscool321 | **VipLord** | resigned ❌ | 13/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/p1B2p1p/1p1Qp1p1/3p4/3P4/P3P2P/n1R2PP1/4K2R b K -">Link</a> | Rapid |
 | **VipLord** | juniscool321 | checkmated ❌ | 13/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/pbp5/1p4n1/P3p2p/2B3pP/1Q1P2P1/1PP2Pq1/R4RK1 w - -">Link</a> | Rapid |
 | **VipLord** | 40kmi | resigned ❌ | 12/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p5p1/2p2p1p/5P2/1Pp4N/P3q2P/6P1/6K1 w - -">Link</a> | Rapid |
 | **VipLord** | elizeq | win 🥇 | 12/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R1k4/R4p2/8/8/5p2/P3pbrP/8/4K3 b - - 3 39">Link</a> | Daily |
-| **VipLord** | elizeq | win 🥇 | 12/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/2p5/1pN5/8/PPkR1N1P/6P1/2K5 b - - 0 42">Link</a> | Daily |
-| elizeq | **VipLord** | win 🥇 | 12/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp3p1p/2p1r3/2Kq4/5B2/1P4P1/P6P/4b3 w - - 6 32">Link</a> | Daily |
-| **VipLord** | elizeq | checkmated ❌ | 12/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2R4p/P3k2b/1p6/1P4P1/K1p2p1P/1q6/8 w - - 2 40">Link</a> | Daily |
-| elizeq | **VipLord** | win 🥇 | 12/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/5pp1/p2p3p/3B1b2/6PK/P3q3/P6r/3R4 w - - 0 30">Link</a> | Daily |
-| **VipLord** | DCK212 | win 🥇 | 11/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/p4pQk/1bq4P/1p6/8/P1PP1p2/1P1B2P1/4RK1R b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
