@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Kornicorn34 | win 🥇 | 21/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/p1p2ppp/2p2nb1/4p1N1/7P/1Q1P4/PP3PP1/RNB1K2R b KQkq h3 0 10">Link</a> | Daily |
 | **VipLord** | TheSlimbob | win 🥇 | 19/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/pb1ppppp/1pn5/2p3N1/2B1P3/2N5/PPPP1PPP/R1BQK2R b KQkq - 3 5">Link</a> | Daily |
 | TheSlimbob | **VipLord** | win 🥇 | 19/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/5NP1/PPPP1P1P/RNBQKB1R w KQkq - 3 4">Link</a> | Daily |
 | **VipLord** | DorutIuga | win 🥇 | 18/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/6r1/5Q2/6P1/6K1/8/8 b - - 4 52">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | teodoraaalexandra | win 🥇 | 17/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/Q2k2pp/2n1bp1n/2p1p3/B1P5/8/PP1P1PPP/R3K2R b KQ -">Link</a> | Bullet |
 | **VipLord** | teodoraaalexandra | insufficient ⏸️ | 17/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=K7/8/3k4/8/8/8/8/8 w - - 0 75">Link</a> | Daily |
 | SunWho | **VipLord** | resigned ❌ | 17/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/4pK2/2PkP2P/8/3N4/8 b - h3 0 51">Link</a> | Daily |
-| **VipLord** | teodoraaalexandra | resigned ❌ | 17/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/ppp2qp1/3p4/8/6p1/6P1/Pb4P1/6K1 w kq - 0 20">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
