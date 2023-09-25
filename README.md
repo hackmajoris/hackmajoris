@@ -77,6 +77,8 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | GoodFella7 | checkmated ❌ | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp2ppp/8/4R3/P1b5/KrP1b2P/4r3/R7 w - - 2 29">Link</a> | Daily |
+| GoodFella7 | **VipLord** | resigned ❌ | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/ppp3p1/4R1k1/6qp/3P4/2P2P2/P5PP/5RK1 b - - 3 28">Link</a> | Daily |
 | TheNew022 | **VipLord** | checkmated ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/pppBR2p/5p1k/3R3Q/8/5PP1/PP5P/6K1 b - -">Link</a> | Rapid |
 | shreyanshpandey24 | **VipLord** | resigned ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/5pk1/5p1p/3b1Q2/8/2rP3P/P1P2PP1/4R1K1 b - -">Link</a> | Rapid |
 | Romalssi | **VipLord** | win 🥇 | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4knr/p1p1qppp/8/1Bp1P3/1b2P3/2Q4P/PP3PP1/RN2K2R w KQ -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | TheSlimbob | win 🥇 | 19/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/pb1ppppp/1pn5/2p3N1/2B1P3/2N5/PPPP1PPP/R1BQK2R b KQkq - 3 5">Link</a> | Daily |
 | TheSlimbob | **VipLord** | win 🥇 | 19/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/5NP1/PPPP1P1P/RNBQKB1R w KQkq - 3 4">Link</a> | Daily |
 | **VipLord** | DorutIuga | win 🥇 | 18/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/6r1/5Q2/6P1/6K1/8/8 b - - 4 52">Link</a> | Daily |
-| Longfrank | **VipLord** | resigned ❌ | 17/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1k2/pp2P2p/8/6p1/5p2/1P3B1P/P1Pn1KP1/3RR3 b - - 0 32">Link</a> | Daily |
-| **VipLord** | teodoraaalexandra | insufficient ⏸️ | 17/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/6k1/8/5K2/8 b - - 0 66">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
