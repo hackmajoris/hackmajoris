@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Bombardak321 | win 🥇 | 25/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/7p/p6n/k1QpP1rp/1pp5/1P6/P1P2P1P/3R1R1K b - - 4 31">Link</a> | Daily |
 | **VipLord** | GoodFella7 | checkmated ❌ | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/ppp2ppp/8/4R3/P1b5/KrP1b2P/4r3/R7 w - - 2 29">Link</a> | Daily |
 | GoodFella7 | **VipLord** | resigned ❌ | 24/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/ppp3p1/4R1k1/6qp/3P4/2P2P2/P5PP/5RK1 b - - 3 28">Link</a> | Daily |
 | TheNew022 | **VipLord** | checkmated ❌ | 23/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r2/pppBR2p/5p1k/3R3Q/8/5PP1/PP5P/6K1 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Kornicorn34 | win 🥇 | 21/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkb1r/p1p2ppp/2p2nb1/4p1N1/7P/1Q1P4/PP3PP1/RNB1K2R b KQkq h3 0 10">Link</a> | Daily |
 | **VipLord** | TheSlimbob | win 🥇 | 19/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qkbnr/pb1ppppp/1pn5/2p3N1/2B1P3/2N5/PPPP1PPP/R1BQK2R b KQkq - 3 5">Link</a> | Daily |
 | TheSlimbob | **VipLord** | win 🥇 | 19/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/pppp1ppp/2n2n2/4p3/4P3/5NP1/PPPP1P1P/RNBQKB1R w KQkq - 3 4">Link</a> | Daily |
-| **VipLord** | DorutIuga | win 🥇 | 18/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/6r1/5Q2/6P1/6K1/8/8 b - - 4 52">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
