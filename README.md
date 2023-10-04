@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Bombardak321 | **VipLord** | resigned ❌ | 3/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1pk5/8/7R/5P1b/2P5/PP4KP/8 b - - 0 41">Link</a> | Daily |
 | CvezKnight | **VipLord** | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/2p2ppp/p7/4p3/2P5/1P3P1P/2N1b1q1/4n2K w k -">Link</a> | Rapid |
 | Naliwhippet | **VipLord** | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Rbkpr1/7p/P7/2P5/7q/7K/8 w - -">Link</a> | Rapid |
 | **VipLord** | Cheersto | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/pp1bnpb1/4p1pp/2p1B3/2P5/2N3Q1/PPP1NPPP/R3K2R b KQkq -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | IsaccNewtron3 | **VipLord** | resigned ❌ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3Q1pk1/4B2p/4P1p1/Pb1pK2P/5P2/3r1P2/R6R b - - 1 36">Link</a> | Daily |
 | **VipLord** | kuba_dryka | agreed ⏸️ | 30/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1k1K4/ppR5/8/P7/8 w - -">Link</a> | Rapid |
 | Kinatrofina | **VipLord** | win 🥇 | 30/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/ppR2p1p/6p1/8/5q2/1P6/P5P1/3Q1K2 w - -">Link</a> | Rapid |
-| **VipLord** | maxameded | resigned ❌ | 30/9/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq2k1/pp4pp/2pp4/3Np3/3nP3/1P5P/P1PN2P1/K7 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
