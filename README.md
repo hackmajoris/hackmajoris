@@ -77,6 +77,8 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | sebastus79 | checkmated ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/p3p1p1/5p2/3p1P2/1Pr2KPP/5R2/5q2 w - - 5 45">Link</a> | Daily |
+| Bombardak321 | **VipLord** | timeout ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1P2k2/1p4p1/6Kp/2P5/P4P1P/8/8 b - - 0 45">Link</a> | Daily |
 | kareem-k | **VipLord** | checkmated ❌ | 9/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/3RQ3/5r2/8/8/5NPp/PP3P1K/4R3 b - - 0 39">Link</a> | Daily |
 | **VipLord** | GenZ_Umid | checkmated ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3n1rk1/pBp1K3/7p/5pp1/1b6/1P2R3/P1Pr1PPP/7R w - -">Link</a> | Rapid |
 | Eggduard | **VipLord** | checkmated ❌ | 8/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/2p2Bpk/7p/2p4b/1p3n2/3q4/P2R3P/4K1R1 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | Naliwhippet | **VipLord** | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2Rbkpr1/7p/P7/2P5/7q/7K/8 w - -">Link</a> | Rapid |
 | **VipLord** | Cheersto | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/pp1bnpb1/4p1pp/2p1B3/2P5/2N3Q1/PPP1NPPP/R3K2R b KQkq -">Link</a> | Rapid |
 | **VipLord** | Mahmoud5W | stalemate ⏸️ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/Q7/8/n1K5/k7 b - -">Link</a> | Rapid |
-| **VipLord** | Love10102 | checkmated ❌ | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnb2rk1/ppp2ppp/8/3P4/8/2NPb1q1/PPPKB1P1/R2Q4 w - -">Link</a> | Rapid |
-| **VipLord** | LovelyTamil143 | win 🥇 | 1/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/3n1ppQ/p3b2p/1p1pB1q1/3P4/2P5/PP3PPP/RB3RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
