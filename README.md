@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | DorutIuga | repetition ⏸️ | 16/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1p2/p5n1/8/2p3P1/3bK3/8/R7 b - - 9 48">Link</a> | Daily |
 | DorutIuga | **VipLord** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3Nk1/2p1n1pp/p1b5/1p2P3/8/2B5/PP3PqP/R2Q1RK1 w - - 0 18">Link</a> | Daily |
 | **VipLord** | saad1571984 | resigned ❌ | 10/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p2b4/6P1/1pq3P1/8/5p2/2P2P2/6K1 w - -">Link</a> | Rapid |
 | MN6996 | **VipLord** | resigned ❌ | 10/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/2p5/p3Q2p/6p1/1P6/P2PP3/2P3PP/R4RK1 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Tienlemanh | **VipLord** | checkmated ❌ | 28/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/ppp2ppp/4b3/1B2b3/2P1p2P/N5P1/PP6/1K5R b - -">Link</a> | Rapid |
 | **VipLord** | IsaccNewtron3 | timeout ❌ | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pb1qbppp/1p2pnn1/2p5/8/1PNPQN1P/P1P1BPP1/4RRK1 w - - 1 15">Link</a> | Daily |
 | **VipLord** | sebastus79 | checkmated ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/p3p1p1/5p2/3p1P2/1Pr2KPP/5R2/5q2 w - - 5 45">Link</a> | Daily |
-| Bombardak321 | **VipLord** | timeout ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1P2k2/1p4p1/6Kp/2P5/P4P1P/8/8 b - - 0 45">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
