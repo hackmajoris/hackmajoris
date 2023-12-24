@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1074 | 862 | 1410 |
+| Current | 1051 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| ilktsmch | **VipLord** | resigned ❌ | 23/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3B3/6kp/1p1B2p1/5pP1/8/2P4P/6K1 b - -">Link</a> | Rapid |
+| **VipLord** | suleymank85 | resigned ❌ | 23/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4prk/3q3p/5P2/P1P5/P4b1P/1KP5/8 w - -">Link</a> | Rapid |
 | **VipLord** | DorutIuga | repetition ⏸️ | 16/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1p2/p5n1/8/2p3P1/3bK3/8/R7 b - - 9 48">Link</a> | Daily |
 | DorutIuga | **VipLord** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3Nk1/2p1n1pp/p1b5/1p2P3/8/2B5/PP3PqP/R2Q1RK1 w - - 0 18">Link</a> | Daily |
 | **VipLord** | saad1571984 | resigned ❌ | 10/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p2b4/6P1/1pq3P1/8/5p2/2P2P2/6K1 w - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | Neutronator | **VipLord** | checkmated ❌ | 2/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/R7/7p/P4pp1/8/1P3P1P/5PK1/8 b - -">Link</a> | Rapid |
 | Jharitik | **VipLord** | checkmated ❌ | 28/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5K2/7R/8/8/8/8/8 b - -">Link</a> | Rapid |
 | Tienlemanh | **VipLord** | checkmated ❌ | 28/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R1k1/ppp2ppp/4b3/1B2b3/2P1p2P/N5P1/PP6/1K5R b - -">Link</a> | Rapid |
-| **VipLord** | IsaccNewtron3 | timeout ❌ | 18/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/pb1qbppp/1p2pnn1/2p5/8/1PNPQN1P/P1P1BPP1/4RRK1 w - - 1 15">Link</a> | Daily |
-| **VipLord** | sebastus79 | checkmated ❌ | 11/10/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7k/p3p1p1/5p2/3p1P2/1Pr2KPP/5R2/5q2 w - - 5 45">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
