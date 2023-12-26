@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1069 | 862 | 1410 |
+| Current | 1086 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| kokaboss | **VipLord** | win 🥇 | 25/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/6p1/p5p1/P3r3/Rp2p3/4P3/1P6/1B1b2K1 w - -">Link</a> | Rapid |
+| **VipLord** | Phaneendra321 | win 🥇 | 25/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b2rk1/pp1pnp1Q/1q6/2p1bB2/4P3/1PNP4/P1P2PPP/R3K2R b KQ -">Link</a> | Rapid |
 | isies22 | **VipLord** | win 🥇 | 24/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rk2/6p1/p4p2/1p1B2p1/2p5/4q3/PP2N3/R3K3 w - -">Link</a> | Rapid |
 | MainCartes | **VipLord** | win 🥇 | 24/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/Np2b2k/8/3P1p2/5r2/2P4K/PPB2P2/R2R4 w - -">Link</a> | Rapid |
 | **VipLord** | FRANKS31 | win 🥇 | 24/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/2r5/2P4p/1PR2p2/R7/3k1K1P/8/8 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | SonaBest | win 🥇 | 24/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1nr/1pBnp2p/p3bb2/3p2p1/3P4/8/PPP2PPP/R2QKBNR b KQkq -">Link</a> | Rapid |
 | ilktsmch | **VipLord** | resigned ❌ | 23/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/R3B3/6kp/1p1B2p1/5pP1/8/2P4P/6K1 b - -">Link</a> | Rapid |
 | **VipLord** | suleymank85 | resigned ❌ | 23/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p4prk/3q3p/5P2/P1P5/P4b1P/1KP5/8 w - -">Link</a> | Rapid |
-| **VipLord** | DorutIuga | repetition ⏸️ | 16/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/3k1p2/p5n1/8/2p3P1/3bK3/8/R7 b - - 9 48">Link</a> | Daily |
-| DorutIuga | **VipLord** | win 🥇 | 12/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3Nk1/2p1n1pp/p1b5/1p2P3/8/2B5/PP3PqP/R2Q1RK1 w - - 0 18">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
