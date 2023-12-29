@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1050 | 862 | 1410 |
+| Current | 1057 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Melbreak | win 🥇 | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp3p2/5kp1/3p4/3P2r1/1KPN3p/PP6/3R4 b - -">Link</a> | Rapid |
 | mayassarali | **VipLord** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p5/1pQp3p/3Ppp2/2P4b/8/PP3q2/5K1R w - -">Link</a> | Rapid |
 | clebervigarista | **VipLord** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1r1/2p2p2/3q3p/8/4pp2/6qP/3B3K/4R2R w - -">Link</a> | Rapid |
 | ramzy000 | **VipLord** | win 🥇 | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kb6/1p6/p5N1/P7/1pb5/5B1P/3r2P1/1r4K1 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | 1smet54 | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1pp3p1/p2p1n2/3P4/1P6/P5Pq/2P1N2P/3RK3 w - -">Link</a> | Rapid |
 | **VipLord** | Memel0424 | checkmated ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/R5p1/6p1/3b4/8/8/2P2P1P/4r1K1 w - -">Link</a> | Rapid |
 | Rajkumar177 | **VipLord** | checkmated ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4kr1/ppp2Q1p/2n2p2/2b3q1/2B5/1P6/P1P3PP/R4R1K b - -">Link</a> | Rapid |
-| **VipLord** | mateo_ar | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pR3ppp/4p3/3p4/P7/3P3P/3q1P2/5R1K w kq -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
