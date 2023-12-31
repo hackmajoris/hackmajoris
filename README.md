@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1041 | 862 | 1410 |
+| Current | 1039 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | lukasbdk | win 🥇 | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b2R2Q/p1p4N/2p2p2/8/3P4/1qP2PPP/5RK1 b - -">Link</a> | Rapid |
+| ganishyndaliyevv | **VipLord** | checkmated ❌ | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/p5pp/8/3QBpq1/8/P1P5/6PP/7K b - -">Link</a> | Rapid |
 | Jonny-chess_KG | **VipLord** | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1B5/2k5/1p6/8/2P4P/P4KP1/8 b - -">Link</a> | Rapid |
 | **VipLord** | ChrisBlunders | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4b1k1/6p1/5p2/r4P2/5K2/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | Melbreak | win 🥇 | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp3p2/5kp1/3p4/3P2r1/1KPN3p/PP6/3R4 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | ramzy000 | **VipLord** | win 🥇 | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kb6/1p6/p5N1/P7/1pb5/5B1P/3r2P1/1r4K1 w - -">Link</a> | Rapid |
 | **VipLord** | emilohrgaard | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p6p/5Bp1/8/2b5/r2p3P/5P2/3K4 w - -">Link</a> | Rapid |
 | **VipLord** | anouaranou | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2k2/P1p1Rp2/2p1bKp1/7p/1P6/8/8/3q4 w - -">Link</a> | Rapid |
-| Georg0411 | **VipLord** | checkmated ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/ppp2Qpp/3p4/2b1p3/2B1P1n1/2PP4/PP3PPP/RNB1K1NR b KQkq -">Link</a> | Rapid |
-| **VipLord** | 1smet54 | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/1pp3p1/p2p1n2/3P4/1P6/P5Pq/2P1N2P/3RK3 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
