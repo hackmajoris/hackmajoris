@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1039 | 862 | 1410 |
+| Current | 1054 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 64squareBC | **VipLord** | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1qB3/2p5/1p3p2/1Q1p4/1P1P1Pp1/2P5/P2K2pP/8 w - -">Link</a> | Rapid |
+| **VipLord** | pim6456 | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1R3Q2/3p3p/p2kp3/4q3/P5P1/2P2P2/5KN1 b - -">Link</a> | Rapid |
 | **VipLord** | lukasbdk | win 🥇 | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b2R2Q/p1p4N/2p2p2/8/3P4/1qP2PPP/5RK1 b - -">Link</a> | Rapid |
 | ganishyndaliyevv | **VipLord** | checkmated ❌ | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/p5pp/8/3QBpq1/8/P1P5/6PP/7K b - -">Link</a> | Rapid |
 | Jonny-chess_KG | **VipLord** | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1B5/2k5/1p6/8/2P4P/P4KP1/8 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | mayassarali | **VipLord** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p5/1pQp3p/3Ppp2/2P4b/8/PP3q2/5K1R w - -">Link</a> | Rapid |
 | clebervigarista | **VipLord** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1r1/2p2p2/3q3p/8/4pp2/6qP/3B3K/4R2R w - -">Link</a> | Rapid |
 | ramzy000 | **VipLord** | win 🥇 | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kb6/1p6/p5N1/P7/1pb5/5B1P/3r2P1/1r4K1 w - -">Link</a> | Rapid |
-| **VipLord** | emilohrgaard | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p6p/5Bp1/8/2b5/r2p3P/5P2/3K4 w - -">Link</a> | Rapid |
-| **VipLord** | anouaranou | resigned ❌ | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r2k2/P1p1Rp2/2p1bKp1/7p/1P6/8/8/3q4 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
