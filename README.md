@@ -72,11 +72,14 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1054 | 862 | 1410 |
+| Current | 1045 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| EdoAli92 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1k2N2p/ppp3p1/6B1/3P4/2P4P/P1P3PK/5r2 b - -">Link</a> | Rapid |
+| **VipLord** | t1marr | win 🥇 | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/5p2/7Q/8/4P2p/4KP2/P7/5q2 b - -">Link</a> | Rapid |
+| saleh2626 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4RQ1/1k5P/8/8/8/8/8/6K1 w - -">Link</a> | Rapid |
 | 64squareBC | **VipLord** | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1qB3/2p5/1p3p2/1Q1p4/1P1P1Pp1/2P5/P2K2pP/8 w - -">Link</a> | Rapid |
 | **VipLord** | pim6456 | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1R3Q2/3p3p/p2kp3/4q3/P5P1/2P2P2/5KN1 b - -">Link</a> | Rapid |
 | **VipLord** | lukasbdk | win 🥇 | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b2R2Q/p1p4N/2p2p2/8/3P4/1qP2PPP/5RK1 b - -">Link</a> | Rapid |
@@ -84,8 +87,5 @@ Developer
 | Jonny-chess_KG | **VipLord** | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1B5/2k5/1p6/8/2P4P/P4KP1/8 b - -">Link</a> | Rapid |
 | **VipLord** | ChrisBlunders | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4b1k1/6p1/5p2/r4P2/5K2/8/8 w - -">Link</a> | Rapid |
 | **VipLord** | Melbreak | win 🥇 | 28/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r4/pp3p2/5kp1/3p4/3P2r1/1KPN3p/PP6/3R4 b - -">Link</a> | Rapid |
-| mayassarali | **VipLord** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p5/1pQp3p/3Ppp2/2P4b/8/PP3q2/5K1R w - -">Link</a> | Rapid |
-| clebervigarista | **VipLord** | win 🥇 | 27/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3rk1r1/2p2p2/3q3p/8/4pp2/6qP/3B3K/4R2R w - -">Link</a> | Rapid |
-| ramzy000 | **VipLord** | win 🥇 | 26/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=kb6/1p6/p5N1/P7/1pb5/5B1P/3r2P1/1r4K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
