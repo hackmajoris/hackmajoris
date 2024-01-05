@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1038 | 862 | 1410 |
+| Current | 1046 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | SharkDOT | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp4Q1/4bn2/3p4/3q4/1B4RP/P4PP1/7K b - -">Link</a> | Rapid |
 | **VipLord** | rgsacrifice | checkmated ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k4P2/1p1N4/2nPp2p/P3P3/3K4/1rr5/5Rb1 w - -">Link</a> | Rapid |
 | EdoAli92 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1k2N2p/ppp3p1/6B1/3P4/2P4P/P1P3PK/5r2 b - -">Link</a> | Rapid |
 | **VipLord** | t1marr | win 🥇 | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/5p2/7Q/8/4P2p/4KP2/P7/5q2 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | lukasbdk | win 🥇 | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b2R2Q/p1p4N/2p2p2/8/3P4/1qP2PPP/5RK1 b - -">Link</a> | Rapid |
 | ganishyndaliyevv | **VipLord** | checkmated ❌ | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/p5pp/8/3QBpq1/8/P1P5/6PP/7K b - -">Link</a> | Rapid |
 | Jonny-chess_KG | **VipLord** | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1B5/2k5/1p6/8/2P4P/P4KP1/8 b - -">Link</a> | Rapid |
-| **VipLord** | ChrisBlunders | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4b1k1/6p1/5p2/r4P2/5K2/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
