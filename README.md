@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1046 | 862 | 1410 |
+| Current | 1049 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AirForce1Guy | **VipLord** | checkmated ❌ | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/2p4k/3p1Np1/4p2p/1pP5/1P5P/5RPK/1q6 b - -">Link</a> | Rapid |
+| jonathankimpineda | **VipLord** | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/1ppp1ppp/p7/3Bp3/4P3/3PB3/PPP1KPqP/RN1Q2n1 w kq -">Link</a> | Rapid |
 | **VipLord** | SharkDOT | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp4Q1/4bn2/3p4/3q4/1B4RP/P4PP1/7K b - -">Link</a> | Rapid |
 | **VipLord** | rgsacrifice | checkmated ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k4P2/1p1N4/2nPp2p/P3P3/3K4/1rr5/5Rb1 w - -">Link</a> | Rapid |
 | EdoAli92 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1k2N2p/ppp3p1/6B1/3P4/2P4P/P1P3PK/5r2 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | 64squareBC | **VipLord** | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1qB3/2p5/1p3p2/1Q1p4/1P1P1Pp1/2P5/P2K2pP/8 w - -">Link</a> | Rapid |
 | **VipLord** | pim6456 | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1R3Q2/3p3p/p2kp3/4q3/P5P1/2P2P2/5KN1 b - -">Link</a> | Rapid |
 | **VipLord** | lukasbdk | win 🥇 | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/1b2R2Q/p1p4N/2p2p2/8/3P4/1qP2PPP/5RK1 b - -">Link</a> | Rapid |
-| ganishyndaliyevv | **VipLord** | checkmated ❌ | 30/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R1k/p5pp/8/3QBpq1/8/P1P5/6PP/7K b - -">Link</a> | Rapid |
-| Jonny-chess_KG | **VipLord** | resigned ❌ | 29/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p1B5/2k5/1p6/8/2P4P/P4KP1/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
