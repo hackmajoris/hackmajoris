@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1057 | 862 | 1410 |
+| Current | 1051 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | VictorKorsgaard | resigned ❌ | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p4p1p/1qp2np1/1p3b2/7P/P5PK/1P6/5R2 w - -">Link</a> | Rapid |
+| Vietnamines | **VipLord** | insufficient ⏸️ | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2K5/8/8/8/8/6kB b - -">Link</a> | Rapid |
 | **VipLord** | GothamsGaze | win 🥇 | 10/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp2b1pp/2n4q/7B/8/2PP3Q/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
 | AirForce1Guy | **VipLord** | checkmated ❌ | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/2p4k/3p1Np1/4p2p/1pP5/1P5P/5RPK/1q6 b - -">Link</a> | Rapid |
 | jonathankimpineda | **VipLord** | win 🥇 | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1kbnr/1ppp1ppp/p7/3Bp3/4P3/3PB3/PPP1KPqP/RN1Q2n1 w kq -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | EdoAli92 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1k2N2p/ppp3p1/6B1/3P4/2P4P/P1P3PK/5r2 b - -">Link</a> | Rapid |
 | **VipLord** | t1marr | win 🥇 | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/5p2/7Q/8/4P2p/4KP2/P7/5q2 b - -">Link</a> | Rapid |
 | saleh2626 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4RQ1/1k5P/8/8/8/8/8/6K1 w - -">Link</a> | Rapid |
-| 64squareBC | **VipLord** | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k1qB3/2p5/1p3p2/1Q1p4/1P1P1Pp1/2P5/P2K2pP/8 w - -">Link</a> | Rapid |
-| **VipLord** | pim6456 | win 🥇 | 31/12/2023 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/1R3Q2/3p3p/p2kp3/4q3/P5P1/2P2P2/5KN1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
