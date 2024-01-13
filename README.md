@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1051 | 862 | 1410 |
+| Current | 1052 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Senshiijj | checkmated ❌ | 12/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/n7/8/5P2/1P6/r7/4K1r1 w - -">Link</a> | Rapid |
+| **VipLord** | mr_cheto | win 🥇 | 12/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q1k1/5ppp/p7/1p6/6q1/6N1/1BPrRP2/1K6 b - -">Link</a> | Rapid |
 | **VipLord** | VictorKorsgaard | resigned ❌ | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p4p1p/1qp2np1/1p3b2/7P/P5PK/1P6/5R2 w - -">Link</a> | Rapid |
 | Vietnamines | **VipLord** | insufficient ⏸️ | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2K5/8/8/8/8/6kB b - -">Link</a> | Rapid |
 | **VipLord** | GothamsGaze | win 🥇 | 10/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp2b1pp/2n4q/7B/8/2PP3Q/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | SharkDOT | win 🥇 | 4/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp4Q1/4bn2/3p4/3q4/1B4RP/P4PP1/7K b - -">Link</a> | Rapid |
 | **VipLord** | rgsacrifice | checkmated ❌ | 2/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/k4P2/1p1N4/2nPp2p/P3P3/3K4/1rr5/5Rb1 w - -">Link</a> | Rapid |
 | EdoAli92 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6Q1/1k2N2p/ppp3p1/6B1/3P4/2P4P/P1P3PK/5r2 b - -">Link</a> | Rapid |
-| **VipLord** | t1marr | win 🥇 | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/5p2/7Q/8/4P2p/4KP2/P7/5q2 b - -">Link</a> | Rapid |
-| saleh2626 | **VipLord** | resigned ❌ | 1/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R4RQ1/1k5P/8/8/8/8/8/6K1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
