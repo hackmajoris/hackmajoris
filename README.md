@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1051 | 862 | 1410 |
+| Current | 1043 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| pawnforthewin33 | **VipLord** | resigned ❌ | 15/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2pR2Q1/p3p3/PpP1p3/1Pn1P2P/8/5qP1/7K b - -">Link</a> | Rapid |
 | **VipLord** | bencarey0 | checkmated ❌ | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/6p1/7p/2Q1p3/4P3/P7/qr5P/K7 w - -">Link</a> | Rapid |
 | Eng0Hussein | **VipLord** | win 🥇 | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6kp/5p2/8/p4K2/1p6/8/8 w - -">Link</a> | Rapid |
 | luis5739boca | **VipLord** | resigned ❌ | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2p2krn/p1n1bp2/4p1pR/2PpP1P1/B2P1P1Q/4BK2/1R4N1 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | VictorKorsgaard | resigned ❌ | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/p4p1p/1qp2np1/1p3b2/7P/P5PK/1P6/5R2 w - -">Link</a> | Rapid |
 | Vietnamines | **VipLord** | insufficient ⏸️ | 11/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2K5/8/8/8/8/6kB b - -">Link</a> | Rapid |
 | **VipLord** | GothamsGaze | win 🥇 | 10/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pp2b1pp/2n4q/7B/8/2PP3Q/PP3PP1/R3R1K1 b - -">Link</a> | Rapid |
-| AirForce1Guy | **VipLord** | checkmated ❌ | 6/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/2p4k/3p1Np1/4p2p/1pP5/1P5P/5RPK/1q6 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
