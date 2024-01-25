@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1029 | 862 | 1410 |
+| Current | 1038 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | LaCalm1 | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/prp2p1p/2p3p1/2P1P2R/3pNB2/1P3P2/P1P3P1/R3K3 w Q -">Link</a> | Rapid |
 | etheminjae | **VipLord** | timeout ❌ | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/p1K5/rpP5/4Q3/5R2/8 b - -">Link</a> | Rapid |
 | **VipLord** | bumptybumpty | resigned ❌ | 17/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1K3p2/3Ppn2/8/8/6q1/8/8 w - -">Link</a> | Rapid |
 | Mayascout | **VipLord** | resigned ❌ | 16/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/4n3/1p6/p4k2/P5N1/1P1K1P2/8/8 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Eng0Hussein | **VipLord** | win 🥇 | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/6kp/5p2/8/p4K2/1p6/8/8 w - -">Link</a> | Rapid |
 | luis5739boca | **VipLord** | resigned ❌ | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7r/2p2krn/p1n1bp2/4p1pR/2PpP1P1/B2P1P1Q/4BK2/1R4N1 b - -">Link</a> | Rapid |
 | EamonnR | **VipLord** | win 🥇 | 13/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/1R1p3p/P7/1P2b2k/8/3r3p/5K2 b - -">Link</a> | Rapid |
-| **VipLord** | Senshiijj | checkmated ❌ | 12/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/8/n7/8/5P2/1P6/r7/4K1r1 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
