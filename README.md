@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1026 | 862 | 1410 |
+| Current | 1018 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Xhare4 | resigned ❌ | 10/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/1pp2p2/p1p1bp1p/8/4P3/2q2PP1/PRPrQK1P/R7 b - -">Link</a> | Rapid |
 | **VipLord** | zachattack63087 | win 🥇 | 7/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p7/kp6/4K2P/6b1/8/5P2/4R3 b - -">Link</a> | Rapid |
 | bagdata | **VipLord** | checkmated ❌ | 26/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/R7/N3pkpr/2Bp4/3P1Pp1/4P2p/P3K2P/8 b - -">Link</a> | Rapid |
 | pajrodz | **VipLord** | checkmated ❌ | 26/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp1nppQ/1b1p4/3q4/1P1P4/3B4/PB3PPP/R4RK1 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Mayascout | **VipLord** | resigned ❌ | 16/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/4n3/1p6/p4k2/P5N1/1P1K1P2/8/8 b - -">Link</a> | Rapid |
 | **VipLord** | wesleythewise | win 🥇 | 16/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/p4p1p/3p2pB/1p2p3/8/1B6/Pb3PPP/3R1RK1 b - -">Link</a> | Rapid |
 | pawnforthewin33 | **VipLord** | resigned ❌ | 15/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/2pR2Q1/p3p3/PpP1p3/1Pn1P2P/8/5qP1/7K b - -">Link</a> | Rapid |
-| **VipLord** | bencarey0 | checkmated ❌ | 14/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r5k/6p1/7p/2Q1p3/4P3/P7/qr5P/K7 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
