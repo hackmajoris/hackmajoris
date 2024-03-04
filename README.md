@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Omer6077 | **VipLord** | win 🥇 | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/ppppbppp/8/4p3/2P5/1Q6/PP1PPPPP/RNB1KBNR w KQkq - 2 3">Link</a> | Daily |
 | LukeGastinel | **VipLord** | checkmated ❌ | 14/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rb1kQ/p1r2p2/6Np/8/2P1P3/q6P/5PP1/6K1 b - -">Link</a> | Rapid |
 | **VipLord** | Xhare4 | resigned ❌ | 10/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/1pp2p2/p1p1bp1p/8/4P3/2q2PP1/PRPrQK1P/R7 b - -">Link</a> | Rapid |
 | **VipLord** | zachattack63087 | win 🥇 | 7/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p7/kp6/4K2P/6b1/8/5P2/4R3 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | etheminjae | **VipLord** | timeout ❌ | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/p1K5/rpP5/4Q3/5R2/8 b - -">Link</a> | Rapid |
 | **VipLord** | bumptybumpty | resigned ❌ | 17/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/1K3p2/3Ppn2/8/8/6q1/8/8 w - -">Link</a> | Rapid |
 | Mayascout | **VipLord** | resigned ❌ | 16/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7Q/4n3/1p6/p4k2/P5N1/1P1K1P2/8/8 b - -">Link</a> | Rapid |
-| **VipLord** | wesleythewise | win 🥇 | 16/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Qk1/p4p1p/3p2pB/1p2p3/8/1B6/Pb3PPP/3R1RK1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
