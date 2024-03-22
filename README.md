@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1012 | 862 | 1410 |
+| Current | 993 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Pantro_007 | **VipLord** | resigned ❌ | 21/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/3b1p1p/1Qpk4/3p4/3N4/3B1N1P/1PP3P1/2K5 b - -">Link</a> | Rapid |
+| **VipLord** | dhee022 | resigned ❌ | 21/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/5pk1/3p3p/7K/p7/8/8/8 w - -">Link</a> | Rapid |
 | Biradam55 | **VipLord** | checkmated ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1k5/p1p5/1p1bK3/nP6/8/8/5q2/8 b - -">Link</a> | Rapid |
 | **VipLord** | Biradam55 | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4R3/3BN3/8/8/3P4/6K1/8 b - -">Link</a> | Rapid |
 | Omer6077 | **VipLord** | win 🥇 | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/ppppbppp/8/4p3/2P5/1Q6/PP1PPPPP/RNB1KBNR w KQkq - 2 3">Link</a> | Daily |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | zachattack63087 | win 🥇 | 7/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/p7/kp6/4K2P/6b1/8/5P2/4R3 b - -">Link</a> | Rapid |
 | bagdata | **VipLord** | checkmated ❌ | 26/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5R2/R7/N3pkpr/2Bp4/3P1Pp1/4P2p/P3K2P/8 b - -">Link</a> | Rapid |
 | pajrodz | **VipLord** | checkmated ❌ | 26/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/ppp1nppQ/1b1p4/3q4/1P1P4/3B4/PB3PPP/R4RK1 b - -">Link</a> | Rapid |
-| **VipLord** | LSF_Chaewon | win 🥇 | 24/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r1k1/prp2p1p/2p3p1/2P1P2R/3pNB2/1P3P2/P1P3P1/R3K3 w Q -">Link</a> | Rapid |
-| etheminjae | **VipLord** | timeout ❌ | 21/1/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/4k3/p1K5/rpP5/4Q3/5R2/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
