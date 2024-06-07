@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | IsaccNewtron3 | win 🥇 | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3n2k1/3Nbpp1/b4P1p/8/4q3/7P/6PK/8 b - - 0 42">Link</a> | Daily |
 | **VipLord** | Omer6077 | timeout ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk3/pp6/2np1Qp1/1Bp4p/4P3/3P3b/PPP1nP1P/R4R1K w - - 3 27">Link</a> | Daily |
 | IsaccNewtron3 | **VipLord** | win 🥇 | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1qrk1/2n1bpp1/ppb1p2p/4P3/1P2PP2/P5Q1/1P2B1PP/2R2RK1 w - - 0 30">Link</a> | Daily |
 | **VipLord** | MiBass4555 | win 🥇 | 15/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1knr/ppp2Q1p/2n2p2/4p1p1/4p2N/PB6/1PPP1PPP/R1B1K2R b KQ -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Biradam55 | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4R3/3BN3/8/8/3P4/6K1/8 b - -">Link</a> | Rapid |
 | Omer6077 | **VipLord** | win 🥇 | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/ppppbppp/8/4p3/2P5/1Q6/PP1PPPPP/RNB1KBNR w KQkq - 2 3">Link</a> | Daily |
 | LukeGastinel | **VipLord** | checkmated ❌ | 14/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Rb1kQ/p1r2p2/6Np/8/2P1P3/q6P/5PP1/6K1 b - -">Link</a> | Rapid |
-| **VipLord** | Xhare4 | resigned ❌ | 10/2/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/1pp2p2/p1p1bp1p/8/4P3/2q2PP1/PRPrQK1P/R7 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
