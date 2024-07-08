@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 988 | 862 | 1410 |
+| Current | 969 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | PowerpuffRabbit | checkmated ❌ | 7/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5pk1/2R3p1/3BPbK1/6r1/8/7p/8 w - -">Link</a> | Rapid |
 | Nav779 | **VipLord** | resigned ❌ | 30/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/2R4p/1p6/5p2/1k5B/4bP2/PPN5/1K1R4 b - -">Link</a> | Rapid |
 | **VipLord** | IsaccNewtron3 | win 🥇 | 6/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3n2k1/3Nbpp1/b4P1p/8/4q3/7P/6PK/8 b - - 0 42">Link</a> | Daily |
 | **VipLord** | Omer6077 | timeout ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk3/pp6/2np1Qp1/1Bp4p/4P3/3P3b/PPP1nP1P/R4R1K w - - 3 27">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | dhee022 | resigned ❌ | 21/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/5pk1/3p3p/7K/p7/8/8/8 w - -">Link</a> | Rapid |
 | Biradam55 | **VipLord** | checkmated ❌ | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q1k5/p1p5/1p1bK3/nP6/8/8/5q2/8 b - -">Link</a> | Rapid |
 | **VipLord** | Biradam55 | win 🥇 | 17/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/4R3/3BN3/8/8/3P4/6K1/8 b - -">Link</a> | Rapid |
-| Omer6077 | **VipLord** | win 🥇 | 3/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk1nr/ppppbppp/8/4p3/2P5/1Q6/PP1PPPPP/RNB1KBNR w KQkq - 2 3">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
