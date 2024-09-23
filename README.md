@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | LowFatAlmondMilk2626 | win 🥇 | 22/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk1Q2/pppp3N/2n5/5p1p/2B5/8/PPP2PPP/R4RK1 b - - 2 17">Link</a> | Daily |
 | **VipLord** | GMakif | win 🥇 | 8/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3R1/2p5/2p5/p1N5/8/8/6PK/r7 b - -">Link</a> | Rapid |
 | JDnielFB | **VipLord** | resigned ❌ | 8/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p1q1kpQp/3p1n2/1Q2n1B1/3p4/5N1P/P1P2PP1/2K1bB1R b - -">Link</a> | Rapid |
 | **VipLord** | chesspsychooooooooooo | win 🥇 | 16/7/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4kR1/2q1p3/2ppBp2/5P1P/1r2P2P/p7/1PQ5/2KR4 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Omer6077 | timeout ❌ | 3/6/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk3/pp6/2np1Qp1/1Bp4p/4P3/3P3b/PPP1nP1P/R4R1K w - - 3 27">Link</a> | Daily |
 | IsaccNewtron3 | **VipLord** | win 🥇 | 26/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r1qrk1/2n1bpp1/ppb1p2p/4P3/1P2PP2/P5Q1/1P2B1PP/2R2RK1 w - - 0 30">Link</a> | Daily |
 | **VipLord** | MiBass4555 | win 🥇 | 15/4/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1knr/ppp2Q1p/2n2p2/4p1p1/4p2N/PB6/1PPP1PPP/R1B1K2R b KQ -">Link</a> | Rapid |
-| Pantro_007 | **VipLord** | resigned ❌ | 21/3/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/3b1p1p/1Qpk4/3p4/3N4/3B1N1P/1PP3P1/2K5 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
