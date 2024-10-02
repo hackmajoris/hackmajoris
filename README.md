@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 973 | 862 | 1410 |
+| Current | 981 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Bach4142 | **VipLord** | win 🥇 | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/8/b5B1/6P1/8/1r4bP/3K4 w - -">Link</a> | Rapid |
 | **VipLord** | fernandojgl | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/qb1P3Q/p5Bp/1pp1N3/5p2/2NP3P/PPP3P1/2KRR3 b - - 8 27">Link</a> | Daily |
 | **VipLord** | JaydenASetti | checkmated ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pp6/1bp3pp/5r2/8/2P2p2/PPQ2PP1/4RK1q w - - 4 29">Link</a> | Daily |
 | kaap21 | **VipLord** | checkmated ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/2r1kp2/R3p3/3pP1p1/Bp6/2p1P1P1/P1Pq2P1/1K6 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | D-lirante | resigned ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/pb3k2/8/Pq5p/3Pn3/2Q2p1P/5KP1/8 w - -">Link</a> | Rapid |
 | sachin10112 | **VipLord** | checkmated ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/8/pp4Q1/4B1P1/P7/7P/1q3PRK/3n4 b - -">Link</a> | Rapid |
 | **VipLord** | Evgeniygroz | checkmated ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k2r4/5pQp/B1p5/8/3N1nn1/1bP5/5PPP/2q1K2R w - -">Link</a> | Rapid |
-| Mathiassss2 | **VipLord** | win 🥇 | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2pkbpn1/3p4/pN1Pp3/8/1P4n1/P4RK1/2r5 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
