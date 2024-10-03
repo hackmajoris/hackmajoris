@@ -72,20 +72,20 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 981 | 862 | 1410 |
+| Current | 965 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | PerPed | checkmated ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r3/2p3pk/p4P1p/1p5K/1P3P1P/P7/8/3q4 w - - 0 49">Link</a> | Daily |
+| POWWW6 | **VipLord** | resigned ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/p1p2ppp/4b3/2bpP3/4Q3/3B4/PPP2PPP/R1B1K2R w KQ -">Link</a> | Rapid |
+| **VipLord** | ItsDiAngelo20 | resigned ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/1pp2p2/p2p2p1/3Pb2p/8/1P3P1P/P1P1NqP1/1K1R4 w - -">Link</a> | Rapid |
+| **VipLord** | GSFROTA | resigned ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pp3pbp/2pp2p1/4pN2/1PBn2n1/8/P4PP1/2B1RK2 w - -">Link</a> | Rapid |
+| **VipLord** | BabAce1 | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk2n1/p1pp1B1Q/3b4/1p6/6q1/1P6/P1P2P2/5K2 b - -">Link</a> | Rapid |
 | Bach4142 | **VipLord** | win 🥇 | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/8/b5B1/6P1/8/1r4bP/3K4 w - -">Link</a> | Rapid |
 | **VipLord** | fernandojgl | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/qb1P3Q/p5Bp/1pp1N3/5p2/2NP3P/PPP3P1/2KRR3 b - - 8 27">Link</a> | Daily |
 | **VipLord** | JaydenASetti | checkmated ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pp6/1bp3pp/5r2/8/2P2p2/PPQ2PP1/4RK1q w - - 4 29">Link</a> | Daily |
 | kaap21 | **VipLord** | checkmated ❌ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4R3/2r1kp2/R3p3/3pP1p1/Bp6/2p1P1P1/P1Pq2P1/1K6 b - -">Link</a> | Rapid |
 | ButchCo | **VipLord** | insufficient ⏸️ | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/2K5/8/8/8/6kB/8 b - -">Link</a> | Rapid |
-| **VipLord** | D-ray05 | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr3r/q1p2ppp/p1p1b3/P1b5/8/4N3/1R2QPPP/R5K1 b - -">Link</a> | Rapid |
-| Leygend17 | **VipLord** | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r5/3N1pk1/b1P1p3/7p/P2nR2P/6p1/1P4P1/2b3K1 w - -">Link</a> | Rapid |
-| **VipLord** | D-lirante | resigned ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R6/pb3k2/8/Pq5p/3Pn3/2Q2p1P/5KP1/8 w - -">Link</a> | Rapid |
-| sachin10112 | **VipLord** | checkmated ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/8/pp4Q1/4B1P1/P7/7P/1q3PRK/3n4 b - -">Link</a> | Rapid |
-| **VipLord** | Evgeniygroz | checkmated ❌ | 29/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=k2r4/5pQp/B1p5/8/3N1nn1/1bP5/5PPP/2q1K2R w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
