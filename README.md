@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| PerPed | **VipLord** | win 🥇 | 6/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3P4/2p1n2p/1pP3bP/1P3pP1/P4P2/r7/3R1K2 w - - 1 47">Link</a> | Daily |
 | **VipLord** | cocoloo | resigned ❌ | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1p1p3/5pkp/PP1pn1bR/4r1P1/2P3K1/8 w - - 0 42">Link</a> | Daily |
 | Sam43131 | **VipLord** | win 🥇 | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/ppp1p1pp/4b3/4p1NQ/P4q2/2N3K1/1Pn3PP/R4B1R w - - 2 15">Link</a> | Daily |
 | **VipLord** | ethomephone | win 🥇 | 4/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/2Q2pb1/p5p1/P2p2Np/1P2b1qP/6P1/5P1K/8 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | GSFROTA | resigned ❌ | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2q1rk1/pp3pbp/2pp2p1/4pN2/1PBn2n1/8/P4PP1/2B1RK2 w - -">Link</a> | Rapid |
 | **VipLord** | BabAce1 | win 🥇 | 2/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bk2n1/p1pp1B1Q/3b4/1p6/6q1/1P6/P1P2P2/5K2 b - -">Link</a> | Rapid |
 | Bach4142 | **VipLord** | win 🥇 | 1/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5p1p/8/b5B1/6P1/8/1r4bP/3K4 w - -">Link</a> | Rapid |
-| **VipLord** | fernandojgl | win 🥇 | 30/9/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3rk1/qb1P3Q/p5Bp/1pp1N3/5p2/2NP3P/PPP3P1/2KRR3 b - - 8 27">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
