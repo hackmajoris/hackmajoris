@@ -72,20 +72,20 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1006 | 862 | 1410 |
+| Current | 990 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Suraj1517 | **VipLord** | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5pp1/4r2p/1p6/8/1P5P/4KPP1/2q5 w - -">Link</a> | Rapid |
+| **VipLord** | fernandolimamartins | resigned ❌ | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/4K3/q7/8/4Bb2/1P4p1/8 w - -">Link</a> | Rapid |
+| ArthurZarathustra | **VipLord** | resigned ❌ | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4rk1/1pp2p2/p2pbN2/4n2Q/4P3/3B2N1/PPP3PP/2KR4 b - -">Link</a> | Rapid |
+| sazan_39 | **VipLord** | timeout ❌ | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r5/3k4/8/1K6/8/8/3R4 b - -">Link</a> | Rapid |
+| **VipLord** | pethani | resigned ❌ | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp3k2/n1pp1P2/2n5/5PN1/P1P3P1/1rB4K/8 w - -">Link</a> | Rapid |
+| **VipLord** | RaulXRP91 | win 🥇 | 8/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/4qrp1/7p/1p2p3/1P2Q3/1R3NP1/5PK1/8 b - -">Link</a> | Rapid |
 | oussama00009 | **VipLord** | win 🥇 | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/2p3k1/p6N/1p1n3p/8/6P1/PP4PP/2R3K1 w - -">Link</a> | Rapid |
 | NosniblaSnr | **VipLord** | win 🥇 | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5nQ/ppp1k1P1/4bpQ1/2b1p3/4P3/2Pn1P1B/PK6/RNBq2NR w - -">Link</a> | Rapid |
 | **VipLord** | MrMare | win 🥇 | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1kR3p1/2np4/1p1Np1Np/pP2B1bP/P1PP4/5KP1/2R5 b - -">Link</a> | Rapid |
 | **VipLord** | amineabdaoui | win 🥇 | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1R3k2/5p1p/7P/1p6/p1b5/6P1/1r3P2/4R1K1 b - -">Link</a> | Rapid |
-| khashkhuu14 | **VipLord** | win 🥇 | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4r/pp2b1pp/4p3/2P1p3/8/2P2Q2/P1P1NPPP/3r1K1R w - -">Link</a> | Rapid |
-| eyenet74 | **VipLord** | win 🥇 | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/pr1b2p1/2p4p/2P5/2B2p2/P2R3P/KqP2PP1/7R w - -">Link</a> | Rapid |
-| **VipLord** | Ragnan00 | resigned ❌ | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k2r/pp2n2p/2npp1p1/2p1p3/4P2Q/2NP4/PPPK1P1P/q7 w kq -">Link</a> | Rapid |
-| equipo-33 | **VipLord** | resigned ❌ | 7/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/6p1/3N1p1p/1p6/p1p5/P4P1P/1PB3P1/1R4K1 b - -">Link</a> | Rapid |
-| PerPed | **VipLord** | win 🥇 | 6/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/3P4/2p1n2p/1pP3bP/1P3pP1/P4P2/r7/3R1K2 w - - 1 47">Link</a> | Daily |
-| **VipLord** | cocoloo | resigned ❌ | 5/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p1p1p3/5pkp/PP1pn1bR/4r1P1/2P3K1/8 w - - 0 42">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
