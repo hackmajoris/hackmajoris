@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 991 | 862 | 1410 |
+| Current | 983 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | thickfreakness69 | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5p2/6p1/1P1p4/8/6KP/6P1/8 w - -">Link</a> | Rapid |
 | ChiyoLover69 | **VipLord** | checkmated ❌ | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Q3/2pk2pp/r4p2/p1P2P2/8/B1P2P2/P1P5/4R1K1 b - -">Link</a> | Rapid |
 | **VipLord** | IbnHabeeb | win 🥇 | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6pk/p6p/1p6/2b1nQ2/P5P1/2P4P/6K1 b - -">Link</a> | Rapid |
 | **VipLord** | Omer6077 | checkmated ❌ | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1b4r/pp1k1ppp/3p4/8/1P1pP1n1/P2B2P1/2PP1q1P/R1BQK2R w - - 1 14">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | tonycadd | **VipLord** | checkmated ❌ | 13/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r1k/5p2/4p2Q/8/1b1P4/5q2/PP3P1P/R4KR1 b - - 0 28">Link</a> | Daily |
 | Tresor3000 | **VipLord** | checkmated ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/bB2Q3/3k3p/pPqN1r2/P7/6PP/4RPK1/5R2 b - - 8 33">Link</a> | Daily |
 | dob12 | **VipLord** | checkmated ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn3kr1/p2b1Qp1/1ppNp1Bp/4P1B1/2p5/P1P5/5PPP/R3K2R b KQ - 0 20">Link</a> | Daily |
-| **VipLord** | Tresor3000 | resigned ❌ | 12/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2p3pk/p2p3p/1p1B2q1/3P4/5R2/PP1K4/8 w - - 2 25">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
