@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Omer6077 | **VipLord** | resigned ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/2pQ1R1p/pp6/8/5B2/2P5/1P3P1P/1K6 b - - 3 30">Link</a> | Daily |
 | **VipLord** | Omer6077 | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/5k2/1PK5/8/8/6p1/8/8 w - - 0 54">Link</a> | Daily |
 | Omer6077 | **VipLord** | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp5p/2pp4/6P1/7P/4n3/P5q1/7K w - - 1 35">Link</a> | Daily |
 | Omer6077 | **VipLord** | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1ppR3p/p3P2r/4R1p1/2P3P1/7P/P4PK1/8 b - - 0 32">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Omer6077 | checkmated ❌ | 27/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=N1b4r/pp1k1ppp/3p4/8/1P1pP1n1/P2B2P1/2PP1q1P/R1BQK2R w - - 1 14">Link</a> | Daily |
 | Heshamesmail61 | **VipLord** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/pp1P1p1p/6pP/8/3p4/6Bq/PPPK4/8 w - -">Link</a> | Rapid |
 | **VipLord** | Nathrnd | resigned ❌ | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4b3/p5K1/8/k5q1/8/7P/8/8 w - -">Link</a> | Rapid |
-| u7727805635 | **VipLord** | win 🥇 | 25/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p7/1p6/2p4k/P6p/1P4qK/8/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
