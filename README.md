@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 998 | 862 | 1410 |
+| Current | 1005 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| dhodge223344 | **VipLord** | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pppq1pp1/3p1R1p/3P2r1/8/6QP/PPP3P1/6K1 w - -">Link</a> | Rapid |
+| **VipLord** | Omer6077 | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1pp4R/5N2/p7/P6P/3p2P1/5PK1/1r6 b - - 0 34">Link</a> | Daily |
 | **VipLord** | GeFGatti | win 🥇 | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/1bp2p1p/p4p2/2p2N2/8/2P3PP/r1P2P2/6K1 b - -">Link</a> | Rapid |
 | takis1979 | **VipLord** | win 🥇 | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/p5pp/8/8/1b6/5P2/NPPq2PP/3K2NR w k -">Link</a> | Rapid |
 | Omer6077 | **VipLord** | checkmated ❌ | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pp1pn1pp/2pN1p2/1B6/4P3/8/PPPP1PPP/RNBQK2R b KQkq - 1 6">Link</a> | Daily |
@@ -85,7 +87,5 @@ Developer
 | Omer6077 | **VipLord** | resigned ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/2pQ1R1p/pp6/8/5B2/2P5/1P3P1P/1K6 b - - 3 30">Link</a> | Daily |
 | **VipLord** | Omer6077 | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/5k2/1PK5/8/8/6p1/8/8 w - - 0 54">Link</a> | Daily |
 | Omer6077 | **VipLord** | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp5p/2pp4/6P1/7P/4n3/P5q1/7K w - - 1 35">Link</a> | Daily |
-| Omer6077 | **VipLord** | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k3/1ppR3p/p3P2r/4R1p1/2P3P1/7P/P4PK1/8 b - - 0 32">Link</a> | Daily |
-| **VipLord** | thickfreakness69 | resigned ❌ | 28/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r4k1/5p2/6p1/1P1p4/8/6KP/6P1/8 w - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
