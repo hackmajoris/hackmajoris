@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1005 | 862 | 1410 |
+| Current | 1015 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/pP6/3p2p1/p3k3/7b/6qK/8 w - -">Link</a> | Rapid |
+| **VipLord** | hfmsite | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nr/ppQ3pp/2n1p3/8/2Pp4/3P2BP/1q2BPP1/3RK2R b K -">Link</a> | Rapid |
 | dhodge223344 | **VipLord** | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pppq1pp1/3p1R1p/3P2r1/8/6QP/PPP3P1/6K1 w - -">Link</a> | Rapid |
 | **VipLord** | Omer6077 | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/1pp4R/5N2/p7/P6P/3p2P1/5PK1/1r6 b - - 0 34">Link</a> | Daily |
 | **VipLord** | GeFGatti | win 🥇 | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R2k1/1bp2p1p/p4p2/2p2N2/8/2P3PP/r1P2P2/6K1 b - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | Omer6077 | win 🥇 | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/3K4/1kQ5/8/5p1p/5P1P/1p6/8 b - - 1 51">Link</a> | Daily |
 | **VipLord** | Omer6077 | resigned ❌ | 31/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5q1K/8/pk6/1p6/8/8/8 w - - 0 48">Link</a> | Daily |
 | Omer6077 | **VipLord** | resigned ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/2pQ1R1p/pp6/8/5B2/2P5/1P3P1P/1K6 b - - 3 30">Link</a> | Daily |
-| **VipLord** | Omer6077 | resigned ❌ | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/5k2/1PK5/8/8/6p1/8/8 w - - 0 54">Link</a> | Daily |
-| Omer6077 | **VipLord** | win 🥇 | 29/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/pp5p/2pp4/6P1/7P/4n3/P5q1/7K w - - 1 35">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
