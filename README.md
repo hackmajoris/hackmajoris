@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 14/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1pp2ppp/3b4/1p2p3/1n5P/1PKP1N1R/r1r2PP1/5B2 w - - 0 23">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/pP6/3p2p1/p3k3/7b/6qK/8 w - -">Link</a> | Rapid |
 | **VipLord** | hfmsite | win 🥇 | 13/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2nr/ppQ3pp/2n1p3/8/2Pp4/3P2BP/1q2BPP1/3RK2R b K -">Link</a> | Rapid |
 | dhodge223344 | **VipLord** | win 🥇 | 12/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/pppq1pp1/3p1R1p/3P2r1/8/6QP/PPP3P1/6K1 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Omer6077 | **VipLord** | checkmated ❌ | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pp1pn1pp/2pN1p2/1B6/4P3/8/PPPP1PPP/RNBQK2R b KQkq - 1 6">Link</a> | Daily |
 | **VipLord** | Omer6077 | win 🥇 | 9/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/3K4/1kQ5/8/5p1p/5P1P/1p6/8 b - - 1 51">Link</a> | Daily |
 | **VipLord** | Omer6077 | resigned ❌ | 31/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5q1K/8/pk6/1p6/8/8/8 w - - 0 48">Link</a> | Daily |
-| Omer6077 | **VipLord** | resigned ❌ | 30/10/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1kr5/2pQ1R1p/pp6/8/5B2/2P5/1P3P1P/1K6 b - - 3 30">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
