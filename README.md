@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1015 | 862 | 1410 |
+| Current | 1022 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| liamboy2015 | **VipLord** | win 🥇 | 20/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/5rpp/p7/3Q3K/7r/6q1/8/8 w - -">Link</a> | Rapid |
 | eusebiul | **VipLord** | win 🥇 | 18/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/p1pQ1pp1/3p3p/b7/2Np4/P7/5PPP/4r1K1 w - - 3 28">Link</a> | Daily |
 | **VipLord** | eusebiul | checkmated ❌ | 17/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/pp4pp/3p2b1/1N6/1bB5/5P2/PP4PP/n2Kr3 w - - 3 21">Link</a> | Daily |
 | Rafaelsgames | **VipLord** | win 🥇 | 16/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k3r1/ppp5/2p2p2/5R2/2b1PB2/3P3P/P1P3qK/R7 w - - 6 26">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | Omer6077 | **VipLord** | win 🥇 | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/2r3pk/p1P4p/1pP5/8/6PP/2r5/4R1K1 w - - 0 36">Link</a> | Daily |
 | **VipLord** | Omer6077 | checkmated ❌ | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4N/ppp3pp/8/8/6P1/5b2/PP1r1q1P/R6K w - - 0 24">Link</a> | Daily |
 | Omer6077 | **VipLord** | win 🥇 | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6r1/2p1kp1p/ppp3p1/4P3/2P5/7P/PP1q1b1P/5R1K w - - 0 26">Link</a> | Daily |
-| **VipLord** | Omer6077 | win 🥇 | 15/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Rk1/ppp3pp/4p3/2B1N3/1P2P3/2P4P/r5P1/6K1 b - - 1 25">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
