@@ -72,11 +72,14 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 1006 | 862 | 1410 |
+| Current | 998 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/RPp1kp2/2Pb4/4n3/P4Kq1/3r4/8 w - - 2 50">Link</a> | Daily |
+| **VipLord** | eusebiul | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p5pp/7k/2B5/7Q/1Pq2P2/P1P2P1P/1K4R1 b - - 6 25">Link</a> | Daily |
+| **VipLord** | QuanBonaparte | resigned ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/5rk1/1R6/4q3 w - -">Link</a> | Rapid |
 | thomasbegen | **VipLord** | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/pppkn1pp/4p3/3pN3/3n2b1/8/PP1N1PPP/R2QK2R b KQ - 1 13">Link</a> | Daily |
 | mohanad9577 | **VipLord** | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Qpk/2q4p/8/8/4B2P/5PPK/2R5 w - -">Link</a> | Rapid |
 | **VipLord** | Marin6No | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1p6/1P1r4/4n3/7K/8/8 w - -">Link</a> | Rapid |
@@ -84,8 +87,5 @@ Developer
 | **VipLord** | thomasbegen | checkmated ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/p4p2/6k1/3qK3/8/P5p1/1P3q2/3r4 w - - 2 59">Link</a> | Daily |
 | eusebiul | **VipLord** | checkmated ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1R2/ppp4Q/3p4/3Bn3/4P3/2bP4/P1P1K1PP/1R6 b - - 4 26">Link</a> | Daily |
 | **VipLord** | eusebiul | checkmated ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2k2/p1pp2pp/8/P1P5/Kq6/8/7P/8 w - - 2 34">Link</a> | Daily |
-| **VipLord** | Omer6077 | win 🥇 | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=R3k3/8/3b1K2/B5p1/2PP2Pp/5P1P/8/8 b - - 1 41">Link</a> | Daily |
-| **VipLord** | beshoyFawzi | win 🥇 | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/8/8/4P3/4QK2/2k5 b - -">Link</a> | Rapid |
-| eusebiul | **VipLord** | win 🥇 | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/7p/5p2/6k1/6p1/2r3K1 w - - 0 58">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
