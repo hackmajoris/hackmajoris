@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 998 | 862 | 1410 |
+| Current | 990 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | eusebiul | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/8/p7/3kBK2/7P/2R3P1/r7 b - - 2 46">Link</a> | Daily |
+| selagoz | **VipLord** | resigned ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p2Q4/3p1k2/2pP4/2P3P1/P5K1/8 b - -">Link</a> | Rapid |
 | eusebiul | **VipLord** | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/RPp1kp2/2Pb4/4n3/P4Kq1/3r4/8 w - - 2 50">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p5pp/7k/2B5/7Q/1Pq2P2/P1P2P1P/1K4R1 b - - 6 25">Link</a> | Daily |
 | **VipLord** | QuanBonaparte | resigned ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/5rk1/1R6/4q3 w - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | Marin6No | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1p6/1P1r4/4n3/7K/8/8 w - -">Link</a> | Rapid |
 | hdtwqvks | **VipLord** | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R3k/p7/5p1p/3Q2p1/1p6/1P6/1KP2P1P/1N6 b - -">Link</a> | Rapid |
 | **VipLord** | thomasbegen | checkmated ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2Q5/p4p2/6k1/3qK3/8/P5p1/1P3q2/3r4 w - - 2 59">Link</a> | Daily |
-| eusebiul | **VipLord** | checkmated ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2k1R2/ppp4Q/3p4/3Bn3/4P3/2bP4/P1P1K1PP/1R6 b - - 4 26">Link</a> | Daily |
-| **VipLord** | eusebiul | checkmated ❌ | 23/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1rb2k2/p1pp2pp/8/P1P5/Kq6/8/7P/8 w - - 2 34">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
