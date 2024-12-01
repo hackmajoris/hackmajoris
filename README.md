@@ -77,15 +77,15 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/ppp5/2p2k2/5p2/P1np4/q7/K2b2R1/1R6 w - - 7 42">Link</a> | Daily |
+| **VipLord** | eusebiul | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/pp3N1p/3p2nk/P2P4/1PP2PKP/8 b - - 1 31">Link</a> | Daily |
+| eusebiul | **VipLord** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/6PP/4k3/8/8/2r5/1q1K4 w - - 3 52">Link</a> | Daily |
+| **VipLord** | thomasbegen | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/p5r1/8/1P1PR3/4KP1k/8/8/8 b - - 0 72">Link</a> | Daily |
 | **VipLord** | eusebiul | checkmated ❌ | 29/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3k1n1/2p4p/8/ppb5/Kn6/P2q2P1/7P/8 w - b6 0 33">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R4/8/8/p7/3kBK2/7P/2R3P1/r7 b - - 2 46">Link</a> | Daily |
 | selagoz | **VipLord** | resigned ❌ | 26/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/p2Q4/3p1k2/2pP4/2P3P1/P5K1/8 b - -">Link</a> | Rapid |
 | eusebiul | **VipLord** | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/RPp1kp2/2Pb4/4n3/P4Kq1/3r4/8 w - - 2 50">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r6/p5pp/7k/2B5/7Q/1Pq2P2/P1P2P1P/1K4R1 b - - 6 25">Link</a> | Daily |
 | **VipLord** | QuanBonaparte | resigned ❌ | 25/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/8/4K3/5rk1/1R6/4q3 w - -">Link</a> | Rapid |
-| thomasbegen | **VipLord** | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6r/pppkn1pp/4p3/3pN3/3n2b1/8/PP1N1PPP/R2QK2R b KQ - 1 13">Link</a> | Daily |
-| mohanad9577 | **VipLord** | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/5Qpk/2q4p/8/8/4B2P/5PPK/2R5 w - -">Link</a> | Rapid |
-| **VipLord** | Marin6No | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/1k6/1p6/1P1r4/4n3/7K/8/8 w - -">Link</a> | Rapid |
-| hdtwqvks | **VipLord** | resigned ❌ | 24/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R3k/p7/5p1p/3Q2p1/1p6/1P6/1KP2P1P/1N6 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
