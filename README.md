@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Asha-Rays | **VipLord** | resigned ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1kR4P/p3RN2/3p4/3n1B2/1P1P4/P5P1/6K1 b - - 0 41">Link</a> | Daily |
 | eusebiul | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1k2Q3/8/8/7r/2K5 b - - 2 63">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p4N1P/7K/1p6/8/8/P1p3r1/8 b - - 1 51">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/1K2k2p/1q6/ppp5/b7/P7/8/8 w - - 10 56">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | Eisbaer1983 | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4qk1/5pp1/p6p/1p6/3PQ3/Pn2PN2/1P2BPPP/3R1RK1 b - - 0 23">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/ppp5/2p2k2/5p2/P1np4/q7/K2b2R1/1R6 w - - 7 42">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/pp3N1p/3p2nk/P2P4/1PP2PKP/8 b - - 1 31">Link</a> | Daily |
-| eusebiul | **VipLord** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6p1/6PP/4k3/8/8/2r5/1q1K4 w - - 3 52">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
