@@ -77,6 +77,9 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | checkmated ❌ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Q6/2K5/8/8/8/8/8 b - - 16 63">Link</a> | Daily |
+| **VipLord** | eusebiul | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5KR1/7k/8/8/p7/P6R/8/8 b - - 2 65">Link</a> | Daily |
+| **VipLord** | Asha-Rays | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4R/R7/8/8/5N2/P1P5/1PK5/8 b - - 14 57">Link</a> | Daily |
 | Asha-Rays | **VipLord** | resigned ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1kR4P/p3RN2/3p4/3n1B2/1P1P4/P5P1/6K1 b - - 0 41">Link</a> | Daily |
 | eusebiul | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1k2Q3/8/8/7r/2K5 b - - 2 63">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p4N1P/7K/1p6/8/8/P1p3r1/8 b - - 1 51">Link</a> | Daily |
@@ -84,8 +87,5 @@ Developer
 | Asha-Rays | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1Qbkr/ppp1Bnpq/4p2p/3p4/8/7N/PPPN2PP/R4RK1 b - - 3 20">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4knr/ppR2Qpp/8/8/4P3/3P4/1q1B1PPP/3BK2R b K - 0 19">Link</a> | Daily |
 | **VipLord** | Asha-Rays | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r2k1/5ppp/p7/5p2/1p6/nP6/1K1p1P1P/3R4 w - - 0 39">Link</a> | Daily |
-| Eisbaer1983 | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4qk1/5pp1/p6p/1p6/3PQ3/Pn2PN2/1P2BPPP/3R1RK1 b - - 0 23">Link</a> | Daily |
-| eusebiul | **VipLord** | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1r2/ppp5/2p2k2/5p2/P1np4/q7/K2b2R1/1R6 w - - 7 42">Link</a> | Daily |
-| **VipLord** | eusebiul | win 🥇 | 30/11/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6R1/8/8/pp3N1p/3p2nk/P2P4/1PP2PKP/8 b - - 1 31">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
