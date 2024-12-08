@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Asha-Rays | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6R1/pk6/6P1/8/6rr/7p/2R4K b - - 0 57">Link</a> | Daily |
 | Asha-Rays | **VipLord** | resigned ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pQ3pkp/5np1/4p3/2P1B3/4bP2/PP2N1qP/3KQ2R b - - 0 24">Link</a> | Daily |
 | eusebiul | **VipLord** | checkmated ❌ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Q6/2K5/8/8/8/8/8 b - - 16 63">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5KR1/7k/8/8/p7/P6R/8/8 b - - 2 65">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | eusebiul | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p4N1P/7K/1p6/8/8/P1p3r1/8 b - - 1 51">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q4/1K2k2p/1q6/ppp5/b7/P7/8/8 w - - 10 56">Link</a> | Daily |
 | Asha-Rays | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1b1Qbkr/ppp1Bnpq/4p2p/3p4/8/7N/PPPN2PP/R4RK1 b - - 3 20">Link</a> | Daily |
-| **VipLord** | eusebiul | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4knr/ppR2Qpp/8/8/4P3/3P4/1q1B1PPP/3BK2R b K - 0 19">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
