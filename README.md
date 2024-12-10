@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | alex_luchian | win 🥇 | 9/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/p2p3p/2p2p1n/1pb3p1/3NP1P1/2N4P/PPPBBP2/R2QK2R b KQkq - 1 9">Link</a> | Daily |
 | **VipLord** | AhmedElhaddad666 | win 🥇 | 8/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3q1r2/7k/3p4/pN1Pp2Q/P3Pp2/8/8/5KR1 b - - 0 41">Link</a> | Daily |
 | Him997 | **VipLord** | win 🥇 | 8/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp2p1p/2n3pN/3n4/8/2P5/P1P2PPP/R1BQKB1R w KQkq - 0 10">Link</a> | Daily |
 | **VipLord** | Asha-Rays | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6R1/pk6/6P1/8/6rr/7p/2R4K b - - 0 57">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Asha-Rays | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4R/R7/8/8/5N2/P1P5/1PK5/8 b - - 14 57">Link</a> | Daily |
 | Asha-Rays | **VipLord** | resigned ❌ | 2/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5b1r/1kR4P/p3RN2/3p4/3n1B2/1P1P4/P5P1/6K1 b - - 0 41">Link</a> | Daily |
 | eusebiul | **VipLord** | resigned ❌ | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/1k2Q3/8/8/7r/2K5 b - - 2 63">Link</a> | Daily |
-| **VipLord** | eusebiul | win 🥇 | 1/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7k/p4N1P/7K/1p6/8/8/P1p3r1/8 b - - 1 51">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
