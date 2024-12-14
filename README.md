@@ -72,11 +72,14 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 990 | 862 | 1410 |
+| Current | 964 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | RZoli | resigned ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2r/2q2ppp/kp6/3Q4/P3P3/5P1P/6P1/5K2 w - -">Link</a> | Rapid |
+| RZoli | **VipLord** | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/p3R2Q/1p3p2/3p4/2qP4/5N2/1PP2PPP/2KR4 b - -">Link</a> | Rapid |
+| **VipLord** | RZoli | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p5/1p6/1P2b3/4p3/P7/2P2PP1/4q1K1 w - -">Link</a> | Rapid |
 | **VipLord** | Alyadith | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qrk2/pbpnbppQ/8/2pNP3/5B2/3B3P/PPP2PP1/R3K2R w KQ - 1 14">Link</a> | Daily |
 | ioandan1 | **VipLord** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p1p1bpp1/4bn1p/qp6/2Pp4/P1NP3P/1PQKBPP1/R1B4R w - - 0 16">Link</a> | Daily |
 | **VipLord** | alex_luchian | win 🥇 | 9/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/p2p3p/2p2p1n/1pb3p1/3NP1P1/2N4P/PPPBBP2/R2QK2R b KQkq - 1 9">Link</a> | Daily |
@@ -84,8 +87,5 @@ Developer
 | Him997 | **VipLord** | win 🥇 | 8/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqk2r/ppp2p1p/2n3pN/3n4/8/2P5/P1P2PPP/R1BQKB1R w KQkq - 0 10">Link</a> | Daily |
 | **VipLord** | Asha-Rays | win 🥇 | 7/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/6R1/pk6/6P1/8/6rr/7p/2R4K b - - 0 57">Link</a> | Daily |
 | Asha-Rays | **VipLord** | resigned ❌ | 5/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/pQ3pkp/5np1/4p3/2P1B3/4bP2/PP2N1qP/3KQ2R b - - 0 24">Link</a> | Daily |
-| eusebiul | **VipLord** | checkmated ❌ | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/1Q6/2K5/8/8/8/8/8 b - - 16 63">Link</a> | Daily |
-| **VipLord** | eusebiul | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5KR1/7k/8/8/p7/P6R/8/8 b - - 2 65">Link</a> | Daily |
-| **VipLord** | Asha-Rays | win 🥇 | 4/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k4R/R7/8/8/5N2/P1P5/1PK5/8 b - - 14 57">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
