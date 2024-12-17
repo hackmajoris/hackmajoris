@@ -77,6 +77,9 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Mandalorian973 | resigned ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p5p/6b1/3q4/8/6BP/1p4P1/5B1K w - - 0 36">Link</a> | Daily |
+| Omer6077 | **VipLord** | resigned ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1pk4p/p7/3P1p2/8/8/P1P2KPP/8 b - - 1 28">Link</a> | Daily |
+| Paravel97 | **VipLord** | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5ppp/1pb5/8/P2P1Q2/3qP1P1/5P2/RR4Kr w - - 7 35">Link</a> | Daily |
 | **VipLord** | DiegoVII7 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Qk4bp/1r1q2p1/2pp4/1p1p4/1B1P4/1PP2PPP/R3R1K1 b - - 0 32">Link</a> | Daily |
 | Chessijames20 | **VipLord** | resigned ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R2R1pk1/3p1p2/3P4/4P2P/p4PPK/r7 b - - 3 37">Link</a> | Daily |
 | **VipLord** | Chessijames20 | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/p4N2/8/5bPP/5P1K/7r w - - 2 37">Link</a> | Daily |
@@ -84,8 +87,5 @@ Developer
 | **VipLord** | RZoli | resigned ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4r2r/2q2ppp/kp6/3Q4/P3P3/5P1P/6P1/5K2 w - -">Link</a> | Rapid |
 | RZoli | **VipLord** | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2r4k/p3R2Q/1p3p2/3p4/2qP4/5N2/1PP2PPP/2KR4 b - -">Link</a> | Rapid |
 | **VipLord** | RZoli | checkmated ❌ | 13/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1k6/p1p5/1p6/1P2b3/4p3/P7/2P2PP1/4q1K1 w - -">Link</a> | Rapid |
-| **VipLord** | Alyadith | win 🥇 | 12/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qrk2/pbpnbppQ/8/2pNP3/5B2/3B3P/PPP2PP1/R3K2R w KQ - 1 14">Link</a> | Daily |
-| ioandan1 | **VipLord** | win 🥇 | 11/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p1p1bpp1/4bn1p/qp6/2Pp4/P1NP3P/1PQKBPP1/R1B4R w - - 0 16">Link</a> | Daily |
-| **VipLord** | alex_luchian | win 🥇 | 9/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbqk2r/p2p3p/2p2p1n/1pb3p1/3NP1P1/2N4P/PPPBBP2/R2QK2R b KQkq - 1 9">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
