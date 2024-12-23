@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | ioandan1 | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1r/1pp2pbp/p3p1p1/3pP3/3P4/4BN2/PPPQ1PPP/R4RK1 b - - 1 11">Link</a> | Daily |
 | **VipLord** | Paravel97 | win 🥇 | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2k3r/1ppr2pp/2bqp3/1p1p4/2PP4/5N2/P1R2PPP/2R3K1 b - - 1 23">Link</a> | Daily |
 | Alyadith | **VipLord** | resigned ❌ | 19/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/ppp3Rp/2kp4/5b2/7Q/2B5/PPP2P2/1K1R4 b - - 0 21">Link</a> | Daily |
 | **VipLord** | Alyadith | win 🥇 | 19/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/p1pq1p1p/3p1Qp1/2p2N2/2b1P3/2P5/P1PK1PPP/3RR3 b - - 1 21">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | DiegoVII7 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Qk4bp/1r1q2p1/2pp4/1p1p4/1B1P4/1PP2PPP/R3R1K1 b - - 0 32">Link</a> | Daily |
 | Chessijames20 | **VipLord** | resigned ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/R2R1pk1/3p1p2/3P4/4P2P/p4PPK/r7 b - - 3 37">Link</a> | Daily |
 | **VipLord** | Chessijames20 | checkmated ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/5ppp/8/p4N2/8/5bPP/5P1K/7r w - - 2 37">Link</a> | Daily |
-| **VipLord** | VicenteCasaSantos | resigned ❌ | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr1b1r/1pp3p1/p3p2p/3pn3/1P2P1Q1/P4K2/2q2PPP/R6R w - - 2 21">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
