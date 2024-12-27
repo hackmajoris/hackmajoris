@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| AhmedElhaddad666 | **VipLord** | win 🥇 | 26/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p3Q1pp/1p1p2b1/6B1/7P/2P2N2/PPq2PP1/2KR3R w - - 1 23">Link</a> | Daily |
 | Paravel97 | **VipLord** | win 🥇 | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p5pp/5p2/8/1P6/1qQ1P3/1B3PPP/R2r2K1 w - - 6 29">Link</a> | Daily |
 | **VipLord** | rg3stax | win 🥇 | 23/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bkR/p7/1p3BBp/n4Pp1/8/1P5P/P3p1P1/6K1 b - -">Link</a> | Rapid |
 | **VipLord** | ioandan1 | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1r/1pp2pbp/p3p1p1/3pP3/3P4/4BN2/PPPQ1PPP/R4RK1 b - - 1 11">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Mandalorian973 | resigned ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p5p/6b1/3q4/8/6BP/1p4P1/5B1K w - - 0 36">Link</a> | Daily |
 | Omer6077 | **VipLord** | resigned ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1pk4p/p7/3P1p2/8/8/P1P2KPP/8 b - - 1 28">Link</a> | Daily |
 | Paravel97 | **VipLord** | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5ppp/1pb5/8/P2P1Q2/3qP1P1/5P2/RR4Kr w - - 7 35">Link</a> | Daily |
-| **VipLord** | DiegoVII7 | win 🥇 | 14/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/Qk4bp/1r1q2p1/2pp4/1p1p4/1B1P4/1PP2PPP/R3R1K1 b - - 0 32">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
