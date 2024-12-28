@@ -72,11 +72,14 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 973 | 862 | 1410 |
+| Current | 964 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | islam0ezzat | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kppp/5n2/3PK3/4r3/4P1P1/7P/8 w - -">Link</a> | Rapid |
+| Hamzaa22 | **VipLord** | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/8/6k1/2R5/5pp1/8/6K1 b - -">Link</a> | Rapid |
+| darjuzz | **VipLord** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2p5/3p2pk/8/6Q1/P4Pp1/1P5q/R4RK1 w - -">Link</a> | Rapid |
 | AhmedElhaddad666 | **VipLord** | win 🥇 | 26/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p3Q1pp/1p1p2b1/6B1/7P/2P2N2/PPq2PP1/2KR3R w - - 1 23">Link</a> | Daily |
 | Paravel97 | **VipLord** | win 🥇 | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p5pp/5p2/8/1P6/1qQ1P3/1B3PPP/R2r2K1 w - - 6 29">Link</a> | Daily |
 | **VipLord** | rg3stax | win 🥇 | 23/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bkR/p7/1p3BBp/n4Pp1/8/1P5P/P3p1P1/6K1 b - -">Link</a> | Rapid |
@@ -84,8 +87,5 @@ Developer
 | **VipLord** | Paravel97 | win 🥇 | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2k3r/1ppr2pp/2bqp3/1p1p4/2PP4/5N2/P1R2PPP/2R3K1 b - - 1 23">Link</a> | Daily |
 | Alyadith | **VipLord** | resigned ❌ | 19/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/ppp3Rp/2kp4/5b2/7Q/2B5/PPP2P2/1K1R4 b - - 0 21">Link</a> | Daily |
 | **VipLord** | Alyadith | win 🥇 | 19/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/p1pq1p1p/3p1Qp1/2p2N2/2b1P3/2P5/P1PK1PPP/3RR3 b - - 1 21">Link</a> | Daily |
-| **VipLord** | Mandalorian973 | resigned ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/1p5p/6b1/3q4/8/6BP/1p4P1/5B1K w - - 0 36">Link</a> | Daily |
-| Omer6077 | **VipLord** | resigned ❌ | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5Q2/1pk4p/p7/3P1p2/8/8/P1P2KPP/8 b - - 1 28">Link</a> | Daily |
-| Paravel97 | **VipLord** | win 🥇 | 16/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/5ppp/1pb5/8/P2P1Q2/3qP1P1/5P2/RR4Kr w - - 7 35">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
