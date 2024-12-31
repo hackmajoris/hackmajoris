@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | Paravel97 | win 🥇 | 30/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/R6Q/3p2R1/2p1b3/2PpPp2/3Pq3/1B5K/2N5 b - - 0 44">Link</a> | Daily |
 | **VipLord** | islam0ezzat | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kppp/5n2/3PK3/4r3/4P1P1/7P/8 w - -">Link</a> | Rapid |
 | Hamzaa22 | **VipLord** | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/8/6k1/2R5/5pp1/8/6K1 b - -">Link</a> | Rapid |
 | darjuzz | **VipLord** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2p5/3p2pk/8/6Q1/P4Pp1/1P5q/R4RK1 w - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | ioandan1 | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1r/1pp2pbp/p3p1p1/3pP3/3P4/4BN2/PPPQ1PPP/R4RK1 b - - 1 11">Link</a> | Daily |
 | **VipLord** | Paravel97 | win 🥇 | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2k3r/1ppr2pp/2bqp3/1p1p4/2PP4/5N2/P1R2PPP/2R3K1 b - - 1 23">Link</a> | Daily |
 | Alyadith | **VipLord** | resigned ❌ | 19/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/ppp3Rp/2kp4/5b2/7Q/2B5/PPP2P2/1K1R4 b - - 0 21">Link</a> | Daily |
-| **VipLord** | Alyadith | win 🥇 | 19/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/p1pq1p1p/3p1Qp1/2p2N2/2b1P3/2P5/P1PK1PPP/3RR3 b - - 1 21">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
