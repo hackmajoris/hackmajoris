@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 964 | 862 | 1410 |
+| Current | 973 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | leonzio123 | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7R/6P1/8/2K5/4Bp1P/5P2/8 b - -">Link</a> | Rapid |
+| eusebiul | **VipLord** | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qn4k1/p2bb1p1/7p/7B/qPp5/2Pn4/P1KP2PP/RNB2R2 w - - 5 23">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/6p1/4Q3/p1B1P2k/1P3P2/P1P3P1/6K1 b - - 1 35">Link</a> | Daily |
 | **VipLord** | Paravel97 | win 🥇 | 30/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/R6Q/3p2R1/2p1b3/2PpPp2/3Pq3/1B5K/2N5 b - - 0 44">Link</a> | Daily |
 | **VipLord** | islam0ezzat | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kppp/5n2/3PK3/4r3/4P1P1/7P/8 w - -">Link</a> | Rapid |
@@ -85,7 +87,5 @@ Developer
 | AhmedElhaddad666 | **VipLord** | win 🥇 | 26/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p3Q1pp/1p1p2b1/6B1/7P/2P2N2/PPq2PP1/2KR3R w - - 1 23">Link</a> | Daily |
 | Paravel97 | **VipLord** | win 🥇 | 25/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r5k1/p5pp/5p2/8/1P6/1qQ1P3/1B3PPP/R2r2K1 w - - 6 29">Link</a> | Daily |
 | **VipLord** | rg3stax | win 🥇 | 23/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5bkR/p7/1p3BBp/n4Pp1/8/1P5P/P3p1P1/6K1 b - -">Link</a> | Rapid |
-| **VipLord** | ioandan1 | win 🥇 | 22/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bq1k1r/1pp2pbp/p3p1p1/3pP3/3P4/4BN2/PPPQ1PPP/R4RK1 b - - 1 11">Link</a> | Daily |
-| **VipLord** | Paravel97 | win 🥇 | 21/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q2k3r/1ppr2pp/2bqp3/1p1p4/2PP4/5N2/P1R2PPP/2R3K1 b - - 1 23">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
