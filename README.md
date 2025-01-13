@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Asha-Rays | **VipLord** | resigned ❌ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/3p1p1k/1Q3nrp/pP1PB1p1/P1P1P1P1/3B4/5P1K/6R1 w - - 1 34">Link</a> | Daily |
 | **VipLord** | bombiitaa | resigned ❌ | 10/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/n1P5/PK6/7r/8/8 w - - 1 63">Link</a> | Daily |
 | **VipLord** | Him997 | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P1Q2p2/3p1k1p/1P1P2p1/4p3/5PqP/2P3P1/5RK1 b - - 0 35">Link</a> | Daily |
 | **VipLord** | leonzio123 | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7R/6P1/8/2K5/4Bp1P/5P2/8 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | islam0ezzat | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/4kppp/5n2/3PK3/4r3/4P1P1/7P/8 w - -">Link</a> | Rapid |
 | Hamzaa22 | **VipLord** | resigned ❌ | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q7/8/8/6k1/2R5/5pp1/8/6K1 b - -">Link</a> | Rapid |
 | darjuzz | **VipLord** | win 🥇 | 27/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/2p5/3p2pk/8/6Q1/P4Pp1/1P5q/R4RK1 w - -">Link</a> | Rapid |
-| AhmedElhaddad666 | **VipLord** | win 🥇 | 26/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r4r1k/p3Q1pp/1p1p2b1/6B1/7P/2P2N2/PPq2PP1/2KR3R w - - 1 23">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
