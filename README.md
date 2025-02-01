@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p3pp/3pb3/4p3/QP2P2P/3Pb1Pq/P6K/RN6 w - - 4 25">Link</a> | Daily |
 | **VipLord** | eusebiul | checkmated ❌ | 29/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/R6p/BR4p1/2Np4/8/3pb1P1/PPP3PP/5r1K w - - 2 30">Link</a> | Daily |
 | Paravel97 | **VipLord** | timeout ❌ | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p5R/p1n5/3npp2/8/PP2P3/1B3P1P/7K b - - 0 30">Link</a> | Daily |
 | bombiitaa | **VipLord** | timeout ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1pp2ppp/p1nbpn2/8/2BP4/2N1BP1P/PP3PP1/R2Q1RK1 b kq - 1 10">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | leonzio123 | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7R/6P1/8/2K5/4Bp1P/5P2/8 b - -">Link</a> | Rapid |
 | eusebiul | **VipLord** | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Qn4k1/p2bb1p1/7p/7B/qPp5/2Pn4/P1KP2PP/RNB2R2 w - - 5 23">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 31/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7R/6p1/4Q3/p1B1P2k/1P3P2/P1P3P1/6K1 b - - 1 35">Link</a> | Daily |
-| **VipLord** | Paravel97 | win 🥇 | 30/12/2024 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=1r3r1k/R6Q/3p2R1/2p1b3/2PpPp2/3Pq3/1B5K/2N5 b - - 0 44">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
