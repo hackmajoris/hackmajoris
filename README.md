@@ -72,11 +72,12 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 973 | 862 | 1410 |
+| Current | 985 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | morfifa | win 🥇 | 19/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pR4Qp/n7/2bB4/8/4P2P/P2q1PP1/5RK1 b - -">Link</a> | Rapid |
 | **VipLord** | eusebiul | win 🥇 | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/2p4R/2P3RK/p1p3P1/P1P5/8 b - - 11 40">Link</a> | Daily |
 | **VipLord** | Sumit-Vishwakarma-OP | win 🥇 | 2/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r3kb1r/p1p1p2p/1p2bp1n/3q2p1/3p4/3P1NBP/PPPNBPP1/R2Q1RK1 w kq - 1 12">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 31/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/p1p3pp/3pb3/4p3/QP2P2P/3Pb1Pq/P6K/RN6 w - - 4 25">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | Asha-Rays | **VipLord** | resigned ❌ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/3p1p1k/1Q3nrp/pP1PB1p1/P1P1P1P1/3B4/5P1K/6R1 w - - 1 34">Link</a> | Daily |
 | **VipLord** | bombiitaa | resigned ❌ | 10/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/n1P5/PK6/7r/8/8 w - - 1 63">Link</a> | Daily |
 | **VipLord** | Him997 | win 🥇 | 4/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/P1Q2p2/3p1k1p/1P1P2p1/4p3/5PqP/2P3P1/5RK1 b - - 0 35">Link</a> | Daily |
-| **VipLord** | leonzio123 | win 🥇 | 1/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/7R/6P1/8/2K5/4Bp1P/5P2/8 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
