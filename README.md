@@ -72,11 +72,13 @@ Developer
 
 | Type | Rapid ⏲️ | Blitz ⚡ | Bullet 🔫 |
 |:---:|:---:|:---:|:---:|
-| Current | 985 | 862 | 1410 |
+| Current | 1012 | 862 | 1410 |
 | Best | 1436 | 1200 | No Rating |
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Alberto_gepe | **VipLord** | win 🥇 | 21/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7p/6k1/5qp1/8/5PP1/3r4/6KQ b - -">Link</a> | Rapid |
+| manleycolin89 | **VipLord** | win 🥇 | 21/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p1Q2ppp/8/1P6/p3pPb1/q2n2P1/6BP/3R2K1 w - -">Link</a> | Rapid |
 | eusebiul | **VipLord** | win 🥇 | 20/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/b1p5/8/k7/3q4/3K4 w - - 6 79">Link</a> | Daily |
 | **VipLord** | morfifa | win 🥇 | 19/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pR4Qp/n7/2bB4/8/4P2P/P2q1PP1/5RK1 b - -">Link</a> | Rapid |
 | **VipLord** | eusebiul | win 🥇 | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/2p4R/2P3RK/p1p3P1/P1P5/8 b - - 11 40">Link</a> | Daily |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | eusebiul | checkmated ❌ | 29/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3k4/R6p/BR4p1/2Np4/8/3pb1P1/PPP3PP/5r1K w - - 2 30">Link</a> | Daily |
 | Paravel97 | **VipLord** | timeout ❌ | 19/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2k5/1p5R/p1n5/3npp2/8/PP2P3/1B3P1P/7K b - - 0 30">Link</a> | Daily |
 | bombiitaa | **VipLord** | timeout ❌ | 17/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2qk2r/1pp2ppp/p1nbpn2/8/2BP4/2N1BP1P/PP3PP1/R2Q1RK1 b kq - 1 10">Link</a> | Daily |
-| Asha-Rays | **VipLord** | resigned ❌ | 12/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2b1r3/3p1p1k/1Q3nrp/pP1PB1p1/P1P1P1P1/3B4/5P1K/6R1 w - - 1 34">Link</a> | Daily |
-| **VipLord** | bombiitaa | resigned ❌ | 10/1/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/k7/n1P5/PK6/7r/8/8 w - - 1 63">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
