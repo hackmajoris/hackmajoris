@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 25/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1r2ppp/2p5/8/PP6/6qP/6P1/4r1K1 w - - 3 32">Link</a> | Daily |
 | yellowboard9 | **VipLord** | resigned ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1bk1/2N1P2p/1n3pp1/1p3P2/1P3BP1/P5K1/7P/8 b - - 0 47">Link</a> | Daily |
 | **VipLord** | Spellbound1987 | resigned ❌ | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/p1p5/P7/1n6/1b6/3p1KPP/1R6 b - - 3 32">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7K/8/6kP/3b4/3b4/8/8/8 w - - 3 67">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | manleycolin89 | **VipLord** | win 🥇 | 21/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3r1rk1/p1Q2ppp/8/1P6/p3pPb1/q2n2P1/6BP/3R2K1 w - -">Link</a> | Rapid |
 | eusebiul | **VipLord** | win 🥇 | 20/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/b1p5/8/k7/3q4/3K4 w - - 6 79">Link</a> | Daily |
 | **VipLord** | morfifa | win 🥇 | 19/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r6k/pR4Qp/n7/2bB4/8/4P2P/P2q1PP1/5RK1 b - -">Link</a> | Rapid |
-| **VipLord** | eusebiul | win 🥇 | 4/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/7k/2p4R/2P3RK/p1p3P1/P1P5/8 b - - 11 40">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
