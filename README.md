@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| 3baadafathy | **VipLord** | resigned ❌ | 2/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/5pk1/6pp/p7/5b2/7P/1Q2RPP1/2r1R1K1 b - - 2 33">Link</a> | Daily |
 | MosesMoseson | **VipLord** | timeout ❌ | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3">Link</a> | Daily |
 | **VipLord** | MosesMoseson | timeout ❌ | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 4">Link</a> | Daily |
 | imayad | **VipLord** | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pR6/7R/8/2P1r3/P1B5/6PP/6K1 b - -">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | Spellbound1987 | resigned ❌ | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/p1p5/P7/1n6/1b6/3p1KPP/1R6 b - - 3 32">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7K/8/6kP/3b4/3b4/8/8/8 w - - 3 67">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 3/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k1Q1B1/pp5p/2pp4/2bNp3/4P3/3P3P/PP3PP1/n4K1R b - - 1 17">Link</a> | Daily |
-| **VipLord** | eusebiul | win 🥇 | 24/2/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rnbq4/ppp2r2/1k6/P3N3/1PB1pP2/2P5/2P3PP/3RK2R b K - 0 17">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
