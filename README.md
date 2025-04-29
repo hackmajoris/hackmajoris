@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | eusebiul | win 🥇 | 28/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kR1br1/pp2p2p/4N1p1/4B3/8/1P5P/P1P2PP1/4K2R b K - 2 18">Link</a> | Daily |
 | **VipLord** | J97abc159357 | win 🥇 | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2ppp/2n1pN2/4P3/3p4/5N2/PPPP1PPP/R1BQKB1R b KQkq - 0 6">Link</a> | Daily |
 | 3baadafathy | **VipLord** | resigned ❌ | 2/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/5pk1/6pp/p7/5b2/7P/1Q2RPP1/2r1R1K1 b - - 2 33">Link</a> | Daily |
 | MosesMoseson | **VipLord** | timeout ❌ | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | eusebiul | **VipLord** | win 🥇 | 25/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1r2ppp/2p5/8/PP6/6qP/6P1/4r1K1 w - - 3 32">Link</a> | Daily |
 | yellowboard9 | **VipLord** | resigned ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1bk1/2N1P2p/1n3pp1/1p3P2/1P3BP1/P5K1/7P/8 b - - 0 47">Link</a> | Daily |
 | **VipLord** | Spellbound1987 | resigned ❌ | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/5ppp/p1p5/P7/1n6/1b6/3p1KPP/1R6 b - - 3 32">Link</a> | Daily |
-| eusebiul | **VipLord** | win 🥇 | 4/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=7K/8/6kP/3b4/3b4/8/8/8 w - - 3 67">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
