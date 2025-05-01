@@ -77,6 +77,8 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| milanino22 | **VipLord** | win 🥇 | 30/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q6r/p1pk1ppp/2n1p3/1P6/1b1Pn3/4P3/P3NP1q/R1BK2N1 b - - 2 14">Link</a> | Daily |
+| **VipLord** | oiburzemoge | resigned ❌ | 30/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/1p3pp1/p3p2p/1B6/3P1B2/2q1P3/5PPP/1R4K1 w - - 0 26">Link</a> | Daily |
 | **VipLord** | milanino22 | timeout ❌ | 29/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/1pp3pp/p2b4/5b2/2p4R/3P4/PPP2PPP/R1B1N1K1 w - - 1 19">Link</a> | Daily |
 | **VipLord** | eusebiul | win 🥇 | 28/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kR1br1/pp2p2p/4N1p1/4B3/8/1P5P/P1P2PP1/4K2R b K - 2 18">Link</a> | Daily |
 | **VipLord** | J97abc159357 | win 🥇 | 3/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkb1r/ppp2ppp/2n1pN2/4P3/3p4/5N2/PPPP1PPP/R1BQKB1R b KQkq - 0 6">Link</a> | Daily |
@@ -85,7 +87,5 @@ Developer
 | **VipLord** | MosesMoseson | timeout ❌ | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 4">Link</a> | Daily |
 | imayad | **VipLord** | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pR6/7R/8/2P1r3/P1B5/6PP/6K1 b - -">Link</a> | Rapid |
 | **VipLord** | ahmedkldy | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn2k2r/5pp1/2p4p/p3p3/P3P1n1/1B1P4/3QNq2/1RB3K1 w kq -">Link</a> | Rapid |
-| eusebiul | **VipLord** | win 🥇 | 25/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/p1r2ppp/2p5/8/PP6/6qP/6P1/4r1K1 w - - 3 32">Link</a> | Daily |
-| yellowboard9 | **VipLord** | resigned ❌ | 7/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3R1bk1/2N1P2p/1n3pp1/1p3P2/1P3BP1/P5K1/7P/8 b - - 0 47">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
