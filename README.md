@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| Satria_panji | **VipLord** | win 🥇 | 8/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p1n1p1/1p5p/p3p3/2PpPp2/P2P2qK/1P4BN/5R2 w - - 0 31">Link</a> | Daily |
 | oiburzemoge | **VipLord** | resigned ❌ | 3/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/2p1qppp/p1n1pP2/1p1p3b/8/PP1BP2P/1BPN1PP1/R3QRK1 b - - 0 14">Link</a> | Daily |
 | milanino22 | **VipLord** | win 🥇 | 30/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=Q6r/p1pk1ppp/2n1p3/1P6/1b1Pn3/4P3/P3NP1q/R1BK2N1 b - - 2 14">Link</a> | Daily |
 | **VipLord** | oiburzemoge | resigned ❌ | 30/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r2r2k1/1p3pp1/p3p2p/1B6/3P1B2/2q1P3/5PPP/1R4K1 w - - 0 26">Link</a> | Daily |
@@ -86,6 +87,5 @@ Developer
 | 3baadafathy | **VipLord** | resigned ❌ | 2/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5r2/5pk1/6pp/p7/5b2/7P/1Q2RPP1/2r1R1K1 b - - 2 33">Link</a> | Daily |
 | MosesMoseson | **VipLord** | timeout ❌ | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=rn1qkbnr/ppp1pppp/8/3p1b2/3P1B2/5N2/PPP1PPPP/RN1QKB1R b KQkq - 3 3">Link</a> | Daily |
 | **VipLord** | MosesMoseson | timeout ❌ | 1/4/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1bqkbnr/pp1ppp1p/2n3p1/2p5/2P1P3/2N5/PP1P1PPP/R1BQKBNR w KQkq - 0 4">Link</a> | Daily |
-| imayad | **VipLord** | resigned ❌ | 31/3/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5k2/pR6/7R/8/2P1r3/P1B5/6PP/6K1 b - -">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
