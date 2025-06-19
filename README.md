@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| eusebiul | **VipLord** | win 🥇 | 18/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4k2r/Q1p2ppp/1r6/2b1p1N1/2B4n/2P5/PP3qbP/RNB3KR w k - 0 18">Link</a> | Daily |
 | Luskaw | **VipLord** | resigned ❌ | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7P/4p3/6k1/5p2/8/P4P1P/5K2 b - - 0 43">Link</a> | Rapid |
 | Alexav95 | **VipLord** | resigned ❌ | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6K1/5R2/5k2/8/8 b - - 0 52">Link</a> | Rapid |
 | **VipLord** | klotfek | checkmated ❌ | 14/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2n1/1ppb1p2/pb1p4/3Pp3/1PB1Pn1q/P1B5/R1PN2pK/4R3 w - - 2 27">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | **VipLord** | eusebiul | win 🥇 | 23/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r7/pp2R2B/2n1Rk2/1q6/3p1B2/8/PPp2P1P/2K5 b - - 2 28">Link</a> | Daily |
 | eusebiul | **VipLord** | win 🥇 | 21/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=6k1/1r3ppp/p7/4Pb2/2P5/KP4P1/r5qP/2R5 w - - 0 27">Link</a> | Daily |
 | Satria_panji | **VipLord** | win 🥇 | 8/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=5rk1/2p1n1p1/1p5p/p3p3/2PpPp2/P2P2qK/1P4BN/5R2 w - - 0 31">Link</a> | Daily |
-| oiburzemoge | **VipLord** | resigned ❌ | 3/5/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rrk1/2p1qppp/p1n1pP2/1p1p3b/8/PP1BP2P/1BPN1PP1/R3QRK1 b - - 0 14">Link</a> | Daily |
 
 <!--END_SECTION:chessStats-->
