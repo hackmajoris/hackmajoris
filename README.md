@@ -77,6 +77,7 @@ Developer
 
 | White ⚪ | Black ⚫ | Result 🏆 | Date 📅 | Position 🗺️ | Type 🕕 |
 |:---:|:---:|:---:|:---:|:---:|:---:|
+| **VipLord** | ShiverMe1 | insufficient ⏸️ | 5/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/K7/4k3/8/8/8/8 b - - 0 62">Link</a> | Rapid |
 | 1thilly | **VipLord** | timeout ❌ | 4/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=3Q4/6kp/5pp1/2B4n/2Q1P1q1/8/5P1P/5K2 b - - 0 44">Link</a> | Rapid |
 | MCKARS | **VipLord** | resigned ❌ | 4/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4Rq1k/2p3p1/P1Qp3p/1Pp2P2/2B5/7P/5PP1/6K1 b - - 1 33">Link</a> | Rapid |
 | **VipLord** | davidpfd | win 🥇 | 3/7/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=r1k3r1/ppQ2p1p/2p3q1/4B3/8/5B2/P4PbP/4RRK1 b - - 1 21">Link</a> | Rapid |
@@ -86,6 +87,5 @@ Developer
 | Luskaw | **VipLord** | resigned ❌ | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/7P/4p3/6k1/5p2/8/P4P1P/5K2 b - - 0 43">Link</a> | Rapid |
 | Alexav95 | **VipLord** | resigned ❌ | 15/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=8/8/8/6K1/5R2/5k2/8/8 b - - 0 52">Link</a> | Rapid |
 | **VipLord** | klotfek | checkmated ❌ | 14/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=2kr2n1/1ppb1p2/pb1p4/3Pp3/1PB1Pn1q/P1B5/R1PN2pK/4R3 w - - 2 27">Link</a> | Rapid |
-| Hantulawik | **VipLord** | checkmated ❌ | 14/6/2025 | <a href="http://www.ee.unb.ca/cgi-bin/tervo/fen.pl?select=4rr1k/5ppQ/2qp4/p3pPB1/P1p1P2R/1pPP3P/1P3P2/1K4R1 b - - 0 31">Link</a> | Rapid |
 
 <!--END_SECTION:chessStats-->
