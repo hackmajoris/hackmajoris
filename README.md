@@ -1,6 +1,6 @@
 # Hey there, I'm Alex 👋
 
-**Senior Software Engineer** | **Cloud Architecture Enthusiast**
+**Software Engineer** | **Cloud Architecture Enthusiast**
 
 I've been building software for over a decade, and I genuinely love what I do. My journey has taken me from IT consulting to full-scale system integration projects, and every challenge has made me a better engineer.
 
