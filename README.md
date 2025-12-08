@@ -10,7 +10,6 @@ My day-to-day work spans **web development**, **mobile apps**, and **cloud archi
 
 ```javascript
 const alex = {
-    location: "Cluj-Napoca, Romania 🇷🇴",
     experience: "10+ years",
     focus: ["Web Development", "Mobile Apps", "Cloud Architecture"],
     approach: "Clean code, continuous improvement, real-world solutions",
