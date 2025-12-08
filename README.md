@@ -43,8 +43,6 @@ const alex = {
 [![Alex's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hackmajoris&theme=radical)](https://github.com/hackmajoris)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hackmajoris&theme=radical" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hackmajoris&theme=radical&utcOffset=2" alt="Productive Time" />
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hackmajoris&theme=radical" alt="Repos per Language" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hackmajoris&theme=radical" alt="Most Commit Language" />
 
