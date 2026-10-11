@@ -8,7 +8,7 @@ I've been building software for over a decade, and I genuinely love what I do. M
 My day-to-day work spans **web development**, **mobile apps**, and **cloud architecture**. I focus on building applications that solve real problems while maintaining clean, scalable codebases.
 
 ```javascript
-const alex = {
+const md = {
     experience: "10+ years",
     focus: ["Web Development", "Mobile Apps", "Cloud Architecture"],
     approach: "Clean code, continuous improvement, real-world solutions",
