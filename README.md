@@ -1,4 +1,3 @@
-# Hey there, I'm Alex 👋
 
 **Software Engineer** | **Cloud Architecture Enthusiast**
 
